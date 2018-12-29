@@ -8,7 +8,7 @@ module.exports = {
         lineNumbers: true
     },
     themeConfig: {
-        lastUpdated: 'Updated'
+        lastUpdated: 'Updated',
         navbar: true,
         nav: [
             { text: 'NoSQL', link: '/NoSQL/' }
