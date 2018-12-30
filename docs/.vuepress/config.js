@@ -41,9 +41,11 @@ module.exports = {
             }, {
                 title: 'NoSQL Databases',
                 children: [
-                    '/nosql/',
+                    '/nosql/intro',
                     '/nosql/mongodb',
-                    '/nosql/redis'
+                    '/nosql/redis',
+                    '/nosql/firebase',
+                    '/nosql/firestore'
                 ]
             },
             {
