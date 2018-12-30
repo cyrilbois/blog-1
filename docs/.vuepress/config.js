@@ -4,21 +4,68 @@ module.exports = {
     head: [
         [ 'link', { rel: 'icon', href: '/favicon.ico'} ]
     ],
-    markdown: {
-        lineNumbers: true
-    },
+    serviceWorker: true,
+    markdown: { lineNumbers: true },
     themeConfig: {
+        // activeHeaderLinks: true, // Default: true
+        // sidebarDepth: 2,
+        // displayAllHeaders: true,
         lastUpdated: 'Updated',
         navbar: true,
         nav: [
-            { text: 'NoSQL', link: '/NoSQL/' }
+            { text: 'About', link: '/about' }
         ],
-        sidebar: {
-            '/NoSQL/': [
-                '',
-                'MongoDB',
-                'Redis'
-            ]
-        }
+        sidebar: [
+            '/',
+            {
+                title: 'Client-Side',
+                children: [
+                    '/client/polymer',
+                    '/client/progressive-web-apps',
+                    '/client/react',
+                    '/client/resources',
+                    '/client/vue-basics',
+                    '/client/vue-components',
+                    '/client/vue-resources',
+                    '/client/webcomponents'
+                ]
+            },
+            {
+                title: 'Node.js',
+                children: [
+                    '/node/basics',
+                    '/node/graphql',
+                    '/node/knex',
+                    '/node/npm'
+                ]
+            }, {
+                title: 'NoSQL Databases',
+                children: [
+                    '/nosql/',
+                    '/nosql/mongodb',
+                    '/nosql/redis'
+                ]
+            },
+            {
+                title: 'Testing',
+                collapsible: true,
+                children: [
+                    '/testing/',
+                    '/testing/mocha',
+                    '/testing/nightwatch',
+                    '/testing/resources'
+                ]
+            },
+            {
+                title: 'Misc Topics',
+                collapsible: true,
+                children: [
+                    '/misc/api-design',
+                    '/misc/client-app-tech',
+                    '/misc/large-scale-javascript',
+                    '/misc/the-mobile-web'
+                ]
+            }
+        ]
     }
 }

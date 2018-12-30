@@ -1,5 +1,5 @@
 ---
-title: NoSQL Databases
+title: Introduction
 lang: en-US
 description: An introduction to NoSQL databases
 ---
