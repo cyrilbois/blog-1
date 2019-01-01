@@ -13,7 +13,8 @@ module.exports = {
         lastUpdated: 'Updated',
         navbar: true,
         nav: [
-            { text: 'About', link: '/about' }
+            { text: 'About', link: '/about' },
+            { text: 'Learn', link: '/learn' }
         ],
         sidebar: [
             '/',
