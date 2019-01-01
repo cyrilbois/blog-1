@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /hero.jpg
 heroText: rannikkohurri.net
 tagline: Personal blog of LuKa
 actionText: About →
