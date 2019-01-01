@@ -157,6 +157,7 @@ Also have a look at the [Plugin section of the Hapi.js website](https://hapijs.c
 
 ## Resources
 
+* [Hapi Coding Conventions](https://hapijs.com/styleguide)
 * [Future Studio](https://futurestud.io) has the best content I've found on Hapi. Some of it is behind paid service.
 * [Future Studio - Node tutorials repo](https://github.com/fs-opensource/nodejs-tutorials-hapi)
 * [hapi.js in Action book repo](https://github.com/mtharrison/hapi.js-in-action)
