@@ -35,6 +35,7 @@ module.exports = {
                 children: [
                     '/node/basics',
                     '/node/graphql',
+                    '/node/hapi',
                     '/node/knex',
                     '/node/npm'
                 ]
