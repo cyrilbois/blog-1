@@ -1,0 +1,30 @@
+https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78
+https://docs.npmjs.com/packages-and-modules/contributing-packages-to-the-registry
+https://docs.npmjs.com/creating-and-publishing-private-packages
+
+
+npm init -y
+check name, version  and that main point to your main file.
+scripts section can be removed if not have tests
+Add README.md
+
+npm whoami
+
+npm login
+npm adduser
+
+show ver: npm version
+update ver of your pkg: npm version 1.0.1
+
+## Publishing your package
+
+before publish, verify package name is unique. Chances are your package name isn't available. If you have private npm you can use your npm name or organization name to prefix the name. @attracs/awesomepkg or @kajlund/awesomepkg. If you don't you explicitly need to add access=public param when publishing.
+npm publish or npm publish --access=public
+
+Given a version number MAJOR.MINOR.PATCH, increment the:
+1. MAJOR version when you make incompatible API changes,
+2. MINOR version when you add functionality in a backwards-compatible manner, and
+3. PATCH version when you make backwards-compatible bug fixes.
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+https://semver.org
+Publishing: The

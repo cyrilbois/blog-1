@@ -1,5 +1,6 @@
 ---
 home: true
+sidebar: true
 heroImage: /hero.jpg
 heroText: rannikkohurri.net
 tagline: Personal blog of LuKa

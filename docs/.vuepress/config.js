@@ -13,8 +13,8 @@ module.exports = {
         lastUpdated: 'Updated',
         navbar: true,
         nav: [
-            { text: 'About', link: '/about' },
-            { text: 'Learn', link: '/learn' }
+            { text: 'Learn', link: '/learn' },
+            { text: 'About', link: '/about' }
         ],
         sidebar: [
             '/',
@@ -24,7 +24,6 @@ module.exports = {
                     '/client/polymer',
                     '/client/progressive-web-apps',
                     '/client/react',
-                    '/client/resources',
                     '/client/vue-basics',
                     '/client/vue-components',
                     '/client/vue-resources',
@@ -48,6 +47,22 @@ module.exports = {
                     '/nosql/redis',
                     '/nosql/firebase',
                     '/nosql/firestore'
+                ]
+            },
+            {
+                title: 'Resources',
+                children: [
+                    '/resources/',
+                    '/resources/clientframeworks',
+                    '/resources/css',
+                    '/resources/db',
+                    '/resources/graphics',
+                    '/resources/libs',
+                    '/resources/markdown',
+                    '/resources/node',
+                    '/resources/tools',
+                    '/resources/ux',
+                    '/resources/widgets'
                 ]
             },
             {
