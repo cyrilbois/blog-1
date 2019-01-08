@@ -11,6 +11,16 @@ Description: Stuff to look into
 * Perhaps switch to [TypeScript](https://www.typescriptlang.org/)
 * Try using [GraphQL](https://graphql.org/) with [GraphCool](https://www.graph.cool/), [Prisma](https://www.prisma.io/) or [Apollo](https://www.apollographql.com/)
 
+### ToDos
+
+Themes are Code-Quality (Testing, Documentation), REST alternatives and Client-Side frameworks. As big part of testing in JS is type-checking, using TypeScript could be considered a part of testing.
+
+* [] Start using JDoc on all code.
+* [] Get basic knowledge on TypeScript
+* [] Start using TS for Node development and implement Node/Hapi template using TS
+* [] Create a server-template for using GraphQL using Hapi/Apollo
+* [] As v3 of Vue will be implemented with TS start looking at that after they have shipped or when time allows.
+
 
 ## Developer ToDos in 2018
 
@@ -46,3 +56,8 @@ Creating Offline-first Mobile Apps with HTML5](https://app.pluralsight.com/libra
 ## Vue.js
 
 * [Vuemastery Courses](https://www.vuemastery.com/courses/)
+
+
+## Repos
+
+* [Futureflix](https://github.com/fs-opensource/futureflix-starter-kit)

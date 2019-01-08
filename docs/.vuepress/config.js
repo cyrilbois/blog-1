@@ -31,6 +31,17 @@ module.exports = {
                 ]
             },
             {
+                title: 'Misc Topics',
+                collapsible: true,
+                children: [
+                    '/misc/api-design',
+                    '/misc/client-app-tech',
+                    '/misc/large-scale-javascript',
+                    '/misc/the-mobile-web',
+                    '/misc/typescript'
+                ]
+            },
+            {
                 title: 'Node.js',
                 children: [
                     '/node/basics',
@@ -73,16 +84,6 @@ module.exports = {
                     '/testing/mocha',
                     '/testing/nightwatch',
                     '/testing/resources'
-                ]
-            },
-            {
-                title: 'Misc Topics',
-                collapsible: true,
-                children: [
-                    '/misc/api-design',
-                    '/misc/client-app-tech',
-                    '/misc/large-scale-javascript',
-                    '/misc/the-mobile-web'
                 ]
             }
         ]

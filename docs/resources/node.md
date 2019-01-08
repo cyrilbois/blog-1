@@ -19,6 +19,7 @@ description: Node.js Resources
 * [Bookshelf.js](http://bookshelfjs.org/) - Built on [knex.js](http://knexjs.org/)
 * [knex](http://knexjs.org/) - a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, and Oracle
 * [mongoose](http://mongoosejs.com/) - Schema-based elegant mongodb object modeling for node.js using MongoDB
+* [NeDB](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 * [node-persist](https://github.com/joeferner/node-persist) - Node.js ORM framework supporting MySQL and SQLite 3 relational databases
 * [node-sqlserver](https://github.com/Azure/node-sqlserver) - The Microsoft Driver for Node.js for SQL Server allows Node.js applications on Microsoft Windows and Microsoft Windows Azure to access Microsoft SQL Server and Microsoft Windows Azure SQL Database.
 * [Objection.js](http://vincit.github.io/objection.js/) - Built on [knex.js](http://knexjs.org/)
@@ -58,6 +59,10 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [GraphQL for Hapi](https://github.com/apollographql/apollo-server/tree/master/packages/apollo-server-hapi)
 * [hapi tutorial series code repo](https://github.com/fs-opensource/nodejs-tutorials-hapi)
 
+## Http
+
+* [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
+
 ## Logging
 
 * [Pino](http://getpino.io/#/) - Very low overhead Node.js logger, inspired by Bunyan.
@@ -68,12 +73,6 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [morgan](https://github.com/expressjs/morgan) is the standard library used by express
 * [node-bunyan](https://github.com/trentm/node-bunyan) typically used with [Restify] along with [restify-bunyan-logger](https://github.com/AnyFetch/restify-bunyan-logger)
 * [signale](https://github.com/klaussinani/signale) - Hackable console logger
-
-* [Raygun](https://raygun.io/nodejs)
-* [Loggly](https://www.loggly.com/) - Cloud-based logging service
-* [Papertrail](https://papertrailapp.com/) Free 100 MB/month 7 day retention
-* [Graylog](https://www.graylog.org/)
-* [InfluxData](https://influxdata.com/)
 
 ## Misc
 
@@ -89,10 +88,14 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [live-server](https://github.com/tapio/live-server)- A simple development http server with live reload capability.
 * [localtunnel](https://localtunnel.github.io/www/) - Expose yourself to the world
 * [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
-* [Nonoid](https://github.com/ai/nanoid) - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+* [nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging
+* [Nanoid](https://github.com/ai/nanoid) - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+* [node-webhooks](https://github.com/roccomuso/node-webhooks) - Node.js module to create and trigger your own webHooks.
+* [Nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+* [Promise.prototype.finally](https://github.com/es-shims/Promise.prototype.finally)
 * [Push](https://pushjs.org) - The world's most versatile desktop notifications framework
 * [ShellJS](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node
-
+* [sse-channel](https://github.com/rexxars/sse-channel) -
 
 ## Security
 
@@ -100,3 +103,12 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Besides incorporating a salt to protect against rainbow table attacks, bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power.
 
 
+## Scheduling
+
+* [Agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+* [Bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling jobs and messages in NodeJS.
+* [Kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
+
+## Templating
+
+* [Handlebars](https://handlebarsjs.com/) -
