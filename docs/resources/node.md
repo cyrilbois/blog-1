@@ -14,6 +14,13 @@ description: Node.js Resources
 * [PM2](http://pm2.keymetrics.io/) - Advanced Node.js Process Manager
 * [Express Boilerplate](https://github.com/danielfsousa/express-rest-es2017-boilerplate)
 
+## CQRS
+
+* [node-eventstore](http://eventstore.js.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [servicebus](https://github.com/mateodelnorte/servicebus) - Simple service bus for sending events between processes using amqp.
+* [Wolkenkit](https://www.wolkenkit.io) - open-source CQRS and event-sourcing framework for JavaScript and Node.js that perfectly matches DDD
+
 ## Databases
 
 * [Bookshelf.js](http://bookshelfjs.org/) - Built on [knex.js](http://knexjs.org/)
@@ -59,12 +66,19 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [GraphQL for Hapi](https://github.com/apollographql/apollo-server/tree/master/packages/apollo-server-hapi)
 * [hapi tutorial series code repo](https://github.com/fs-opensource/nodejs-tutorials-hapi)
 
+### Plugins
+
+* [Joi](https://github.com/hapijs/joi)
+
+
+
 ## Http
 
 * [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
 
 ## Logging
 
+* [Debug](https://github.com/visionmedia/debug#readme)
 * [Pino](http://getpino.io/#/) - Very low overhead Node.js logger, inspired by Bunyan.
 * [roarr](https://github.com/gajus/roarr) -JSON logger for Node.js and browser.
 * [Winston](https://github.com/winstonjs/winston) a multi-transport async logging library for node.js

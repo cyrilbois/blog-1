@@ -38,4 +38,8 @@ description: Various Tools for JS Development
 ## Testing
 
 * [gauge](https://gauge.org/) - Gauge is a free and open source test automation framework that takes the pain out of acceptance testing
+* [Chai Cheatsheet](https://devhints.io/chai)
 
+## Transpilers
+
+* [Babel](https://babeljs.io/)

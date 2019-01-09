@@ -40,7 +40,10 @@ Query Format:
 
 ## Resources
 
+* [Apollo](https://www.apollographql.com/), [apollo-server](https://github.com/apollographql/apollo-server), [tutorial kit](https://github.com/apollographql/apollo-tutorial-kit)
 * Discoverability: Check out [Graphiql](https://graphql.github.io/swapi-graphql/)
 * [KnowThen GraphQL Course](https://courses.knowthen.com/courses/384035/)
+* [Prisma](https://www.prisma.io/)
+* [Graphcool](https://www.graph.cool/)
 
 

@@ -13,6 +13,10 @@ description: Developer resources
 * [selectivity](http://arendjr.github.io/selectivity/) - Modular and light-weight selection library for jQuery and Zepto.js
 * [typeahead.js](http://twitter.github.io/typeahead.js/) - a flexible JavaScript library that provides a strong foundation for building robust typeaheads
 
+## Bootstrap
+
+* [nya-bootstrap-select](http://nya.io/nya-bootstrap-select/#!/) - Select element or dropdown with Bootstrap style and an angular way.
+
 ## Carousel
 
 * [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
@@ -61,6 +65,7 @@ JavaScript.
 * [gmaps.js](https://hpneo.github.io/gmaps/) - google maps api with less pain and more fun
 * [Google Maps Directions API](https://developers.google.com/maps/documentation/javascript/directions)
 * [Leaflet](http://leafletjs.com/) - an open-source JavaScript library for mobile-friendly interactive maps
+  * [Leflet Providers](https://leaflet-extras.github.io/leaflet-providers/preview/)
 
 ## Input
 
