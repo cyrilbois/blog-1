@@ -32,6 +32,7 @@ module.exports = {
                 children: [
                     '/misc/api-design',
                     '/misc/client-app-tech',
+                    '/misc/gulp',
                     '/misc/large-scale-javascript',
                     '/misc/the-mobile-web',
                     '/misc/typescript'
