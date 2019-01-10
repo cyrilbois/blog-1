@@ -24,7 +24,7 @@ description: Vue.js Resources
 * [vue-head](https://github.com/ktquez/vue-head)
 * [vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 * [vue-multiselect](http://monterail.github.io/vue-multiselect/)
-*[vue-infinite-loading](https://peachscript.github.io/vue-infinite-loading/)
+* [vue-infinite-loading](https://peachscript.github.io/vue-infinite-loading/)
 * [vue-dragula](https://github.com/MarcErdmann/vue-dragula)
 * [vue-top-progress](https://github.com/dalphyx/vue-top-progress)
 * [vue-chartjs](https://github.com/apertureless/vue-chartjs)

@@ -1,6 +1,6 @@
 ---
 title: Vue Basics
-date: 2017-06-17 21:41:30
+date: 2017-06-17
 description: A introduction to Vue.js - A client-side SPA framework.
 ---
 
@@ -30,7 +30,6 @@ description: A introduction to Vue.js - A client-side SPA framework.
 * You can use build tools and transpilers but you don't have to
 * Vue has a small footprint (~26KB minified) so could also be used for simple scenarios. You could for instance replace Bootstrap + jQuery with [VueStrap](http://yuche.github.io/vue-strap/)
 * Simple syntax compared to React, also faster
-
 
 ## Installation
 
@@ -72,11 +71,11 @@ A [directive](https://vuejs.org/v2/api/#Directives) is an instruction placed in 
 
 The generic syntax is: `v-on:DOMevent`="methodEventHandler" where DOMevent is any DOM event and methodEventHandler is a function in the methods section of your Vue declaration. Shortcut for v-on is the @ sign.
 
-##### Passing Event Arguments
+### Passing Event Arguments
 
 You can pass arguments to event handler like any other function. If you need access to the original DOM event you can pass it as a param using the special `$event` variable.
 
-##### Modifiers
+### Modifiers
 
 Vue implements so called [Event Modifiers](https://vuejs.org/v2/guide/events.html#Event-Modifiers) to deal with DOM event details so that you don't have to deal with a lot of similar logic in your event handlers.
 
@@ -106,7 +105,7 @@ computed: {
 }
 ```
 
-##### Using the Watch object
+### Using the Watch object
 
 In general you should use computer properties instead because they are more optimized. However computed properties need to return immediately meaning you can only do synchronous calls in them. When you need to do an asyncronous call you need to use a watch function.
 

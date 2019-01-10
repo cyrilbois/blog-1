@@ -4,6 +4,7 @@ lang: en-US
 Description: Stuff to look into
 ---
 
+* [30 seconds of Code](https://github.com/30-seconds/30-seconds-of-code)
 * [The twelve-factor app](https://12factor.net/)
 
 ## Developer ToDos in 2019

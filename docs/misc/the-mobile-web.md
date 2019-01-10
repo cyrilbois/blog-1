@@ -1,12 +1,12 @@
 ---
 title: The Mobile Web
 lang: en-US
-date: 2014-03-15T18:25:30+02:00
+date: 2014-03-15
 description: An intro to the mobile web. Different style mobile web applications and tools of the trade.
 ---
 
 ::: warning
-Material from back in 2014
+Written back in March of 2014
 :::
 
 The Mobile Web refers to browser-based applications created for mobile devices, like smartphones and tablets, wirelessly connected to the internet.

@@ -23,11 +23,7 @@ module.exports = {
                 children: [
                     '/client/polymer',
                     '/client/progressive-web-apps',
-                    '/client/react',
-                    '/client/vue-basics',
-                    '/client/vue-components',
-                    '/client/vue-resources',
-                    '/client/webcomponents'
+                    '/client/react'
                 ]
             },
             {
@@ -84,6 +80,13 @@ module.exports = {
                     '/testing/mocha',
                     '/testing/nightwatch',
                     '/testing/resources'
+                ]
+            },
+            {
+                title: 'Vue.js',
+                collapsible: true,
+                children: [
+                    '/vue/basics'
                 ]
             }
         ]
