@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "docs:build": "vuepress build docs",
-    "docs:dev": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs --no-cache",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
