@@ -1,8 +1,12 @@
 ---
-title: Angular.js ver 1
+title: Angular.js
 lang: en-US
 description: Resources for building SPAs with angular.js
 ---
+
+::: warning
+These have not been actively maintained lately
+:::
 
 * [AngularJS API Docs](https://docs.angularjs.org/api)
 * [Google CDN](https://code.angularjs.org/)
@@ -12,7 +16,6 @@ description: Resources for building SPAs with angular.js
 * [Todd Motto&rsquo;s AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide)
 * [John Papa&rsquo;s Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 * [Code Review Checklist](https://angularcodereview.com/)
-* [Tero Parviainen's Blog](http://teropa.info/)
 
 ## Books
 
@@ -34,7 +37,6 @@ description: Resources for building SPAs with angular.js
 * [AngularJS Basics in 60-ish minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
 * [AngularJS YouTube Channel](https://www.youtube.com/user/angularjs)
 
-
 ## Other Useful Sites
 
 * [Learn Angular](http://www.learn-angular.org/)
@@ -47,7 +49,6 @@ description: Resources for building SPAs with angular.js
 * [Dan Wahlin](http://weblogs.asp.net/dwahlin)
 * [Todd Motto](http://toddmotto.com/)
 * [Built With AngularJS](https://builtwith.angularjs.org/)
-
 
 ## UI Frameworks
 
@@ -68,7 +69,6 @@ description: Resources for building SPAs with angular.js
 * [gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) - Add angularjs dependency injection annotations with ng-annotate
 * [angular-hint](https://github.com/angular/angular-hint) - Run-time hinting for AngularJS applications
 * [angular-kickstart](http://vesparny.github.io/angular-kickstart/#/) - Speed up your AngularJS development with a complete and scalable build system that scaffolds the project for you
-
 
 You can search for Angular Modules at [ngmodules.org](http://ngmodules.org/)
 
@@ -93,6 +93,7 @@ You can search for Angular Modules at [ngmodules.org](http://ngmodules.org/)
 * [syTabs](http://sydev.github.io/sytabs/)
 
 ## Input
+
 * [Angular Gauge](https://ashish-chopra.github.io/angular-gauge/)
 * [angular-bootstrap-switch](https://github.com/frapontillo/angular-bootstrap-switch)
 * [Angular DateTime Picker](http://dalelotts.github.io/angular-bootstrap-datetimepicker/)

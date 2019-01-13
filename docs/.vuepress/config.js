@@ -13,6 +13,7 @@ module.exports = {
         lastUpdated: 'Updated',
         navbar: true,
         nav: [
+            { text: 'Resources', link: '/resources/' },
             { text: 'Learn', link: '/learn' },
             { text: 'About', link: '/about' }
         ],
@@ -32,8 +33,12 @@ module.exports = {
                 children: [
                     '/misc/api-design',
                     '/misc/client-app-tech',
+                    '/misc/git-cli',
+                    '/misc/golang',
+                    '/misc/graphql',
                     '/misc/gulp',
                     '/misc/large-scale-javascript',
+                    '/misc/microservices',
                     '/misc/the-mobile-web',
                     '/misc/typescript'
                 ]
@@ -41,8 +46,8 @@ module.exports = {
             {
                 title: 'Node.js',
                 children: [
+                    '/node/',
                     '/node/basics',
-                    '/node/graphql',
                     '/node/hapi',
                     '/node/knex',
                     '/node/npm'
@@ -59,6 +64,7 @@ module.exports = {
             },
             {
                 title: 'Resources',
+                collapsible: true,
                 children: [
                     '/resources/',
                     '/resources/angular',
@@ -91,6 +97,7 @@ module.exports = {
                 title: 'Vue.js',
                 collapsible: true,
                 children: [
+                    '/vue/',
                     '/vue/basics'
                 ]
             }

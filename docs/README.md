@@ -3,15 +3,15 @@ home: true
 sidebar: true
 heroImage: /hero.jpg
 heroText: rannikkohurri.net
-tagline: Personal blog of LuKa
+tagline: Personal blog of Kaj Lund, a.k.a. LuKa
 actionText: About →
 actionLink: /about
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+- title: Resources
+  details: I have gathered lot's of resources that I've come across.
+- title: Learn
+  details: The learn section contains lot's of learning resources.
+- title: About
+  details: In the about section you can find some information about me and what I'm up to.
 footer: MIT Licensed | Copyright © 2018-present Kaj Lund
 ---
