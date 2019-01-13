@@ -59,6 +59,7 @@ JavaScript.
 ## Editors
 
 * [Redactor II](https://imperavi.com/redactor/) — WYSIWYG Text Editor
+* [ToastUI](https://ui.toast.com/tui-editor/) - GFM Markdown Wysiwyg Editor - Productive and Extensible
 
 ## GIS
 
@@ -136,6 +137,7 @@ JavaScript.
 * [Ladda](http://lab.hakim.se/ladda/)
 * [PACE](http://github.hubspot.com/pace/docs/welcome/) - Automatic page load progress bar
 * [NProgress](http://ricostacruz.com/nprogress/) - A nanoscopic progress bar.
+* [Pace](https://github.hubspot.com/pace/docs/welcome/) - Automatic page load progress bar
 * [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js/)
 * [spin.js](http://spin.js.org/)
 

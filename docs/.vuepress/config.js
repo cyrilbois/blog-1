@@ -61,6 +61,9 @@ module.exports = {
                 title: 'Resources',
                 children: [
                     '/resources/',
+                    '/resources/angular',
+                    '/resources/apis',
+                    '/resources/bootstrap',
                     '/resources/clientframeworks',
                     '/resources/css',
                     '/resources/db',
@@ -68,6 +71,7 @@ module.exports = {
                     '/resources/libs',
                     '/resources/markdown',
                     '/resources/node',
+                    '/resources/software',
                     '/resources/tools',
                     '/resources/ux',
                     '/resources/widgets'

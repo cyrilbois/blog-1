@@ -109,7 +109,8 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [Promise.prototype.finally](https://github.com/es-shims/Promise.prototype.finally)
 * [Push](https://pushjs.org) - The world's most versatile desktop notifications framework
 * [ShellJS](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node
-* [sse-channel](https://github.com/rexxars/sse-channel) -
+* [Sockette](https://github.com/lukeed/sockette) -
+* [sse-channel](https://github.com/rexxars/sse-channel) - he cutest little WebSocket wrapper!
 
 ## Security
 
@@ -125,4 +126,13 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 
 ## Templating
 
-* [Handlebars](https://handlebarsjs.com/) -
+* [EJS](http://www.embeddedjs.com/)
+* [Handlebars](https://handlebarsjs.com/)
+* [Jade](http://jade-lang.com/) is the default templating language for express but I'm not sold on the syntax.
+* [Pug](https://pugjs.org/api/getting-started.html)
+* [Vash](https://github.com/kirbysayshi/vash) Templating language with Razor syntax
+
+## Tools
+
+* [nvm](https://github.com/creationix/nvm) - Simple bash script to manage multiple active node.js versions
+* [nvm-Windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.

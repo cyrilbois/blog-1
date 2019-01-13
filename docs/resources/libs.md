@@ -4,6 +4,16 @@ lang: en-US
 description: Developer resources
 ---
 
+## Animation
+
+* [AniJS](http://anijs.github.io/)
+* [Bounce.js](http://bouncejs.com/)
+* [Flippant.js](http://labs.mintchaos.com/flippant.js/)
+* [MotorCortex.js](http://motorcortexjs.com/)
+* [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/)
+* [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/)
+* [mojs](http://mojs.io/) - Motion for the web
+
 ## Authorization
 
 * [Auth0](https://auth0.com/) single sign-on and token based authentication
@@ -39,6 +49,7 @@ jQuery!
 programming helpers without extending any built-in objects.
 * [forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
 * [GraphQL](http://graphql.org/) - A query language for your API
+* [Hammer.js](http://hammerjs.github.io/) - Add touch gestures to your web app.
 * [is.js](http://is.js.org/) - Check types, regexps, presence, time and more...
 * [Lazy.js](http://danieltao.com/lazy.js/) - Lazy.js is a functional utility library for JavaScript, similar to Underscore and Lo-Dash
 * [lodash](https://lodash.com/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
@@ -62,6 +73,13 @@ programming helpers without extending any built-in objects.
 * [Rapid.js](https://rapidjs.io) - a fluent framework for rapidly building API wrappers, reusable base models, and interacting with APIs
 * [request](https://github.com/request/request) - Simplified HTTP request client.
 * [restler](https://github.com/danwrong/restler) - REST client library for node.js
+
+## Images
+
+* [GraphicStock](https://www.graphicstock.com/)
+* [Freepik](http://www.freepik.com/)
+
+
 
 ## Misc
 
