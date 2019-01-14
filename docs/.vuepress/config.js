@@ -28,6 +28,15 @@ module.exports = {
                 ]
             },
             {
+                title: 'JavaScript',
+                children: [
+                    '/js/',
+                    '/js/array',
+                    '/js/es6',
+                    '/js/promises'
+                ]
+            },
+            {
                 title: 'Misc Topics',
                 collapsible: true,
                 children: [
@@ -78,6 +87,7 @@ module.exports = {
                     '/resources/markdown',
                     '/resources/node',
                     '/resources/software',
+                    '/resources/testing',
                     '/resources/tools',
                     '/resources/ux',
                     '/resources/widgets'
@@ -88,9 +98,9 @@ module.exports = {
                 collapsible: true,
                 children: [
                     '/testing/',
+                    '/testing/jasmine',
                     '/testing/mocha',
-                    '/testing/nightwatch',
-                    '/testing/resources'
+                    '/testing/nightwatch'
                 ]
             },
             {

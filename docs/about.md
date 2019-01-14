@@ -28,17 +28,17 @@ Themes are Code-Quality (Testing, Documentation), REST alternatives and Client-S
 
 ## Developer ToDos in 2019
 
-* New ECMA features. Check [node green]https://node.green/() for things you can use in node
+* New ECMA features. Check [node green](https://node.green/) for things you can use in node
 * More work with [Vue](https://vuejs.org/)
 * Perhaps switch to [TypeScript](https://www.typescriptlang.org/)
 * Try using [GraphQL](https://graphql.org/) with [GraphCool](https://www.graph.cool/), [Prisma](https://www.prisma.io/) or [Apollo](https://www.apollographql.com/)
 
 ## Developer ToDos in 2018
 
-* Use [Prettier](https://github.com/prettier/prettier) for code linting and formatting
-* New ECMA features. Check [node green]https://node.green/() for things you can use in node
-* Switch node servers to use hapi 17, Node 8+ , async/await
-* Using Node 8+ objects and arrays has .includes() function
+* :+1: Use [Prettier](https://github.com/prettier/prettier) for code linting and formatting
+* :+1: New ECMA features. Check [node green](https://node.green/) for things you can use in node
+* :+1: Switch node servers to use hapi 17, Node 8+ , async/await
+* :+1: Using Node 8+ objects and arrays has .includes() function
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [The State of JS 2017](https://2017.stateofjs.com/2017/front-end/results/)
 

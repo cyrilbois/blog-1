@@ -12,10 +12,11 @@ TypeScript is a superset of ECMAScript that brings us latest features, features 
 * [Website](http://www.typescriptlang.org/)
 * [Definitely Typed](http://definitelytyped.org/) - The repository for high quality TypeScript type definitions
 * [Kurata Pluralsight Course](https://app.pluralsight.com/library/courses/angular-typescript/table-of-contents)
-* [TypeScript Deep Dive](https://www.gitbook.com/book/basarat/typescript/details)
+* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 * [Getting Started with TypeScript](http://blog.teamtreehouse.com/getting-started-typescript)
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescrip)
 * [ALM](http://alm.tools/) - A cloud ready IDE for TypeScript
+* [Hapi With Typescript](https://hapibook.jjude.com/book)
 
 ## Install
 

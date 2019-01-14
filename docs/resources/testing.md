@@ -1,5 +1,5 @@
 ---
-title: Testing Resources
+title: Testing
 description: Libraries and tools for testing code
 ---
 
@@ -22,7 +22,7 @@ description: Libraries and tools for testing code
 * [Protractor](http://www.protractortest.org/) is an end-to-end test framework for AngularJS applications.
 
 
-### Libraries
+## Libraries
 
 * [frisby.js](http://frisbyjs.com/) - HTTP calls and assertions using Jest for running tests
 * [Chai.js](http://chaijs.com/) Assertion library supporting expect, should and assert styles.
@@ -31,7 +31,7 @@ description: Libraries and tools for testing code
 
 Jasmine uses a built-in version of the expect styles.
 
-### Http Calls
+## Http Calls
 
 * [httpbin](https://httpbin.org/) - A simple HTTP Request & Response Service.
 * [superagent](https://github.com/visionmedia/superagent) - Elegant & feature rich browser/node HTTP calls with a fluent API
@@ -40,7 +40,7 @@ Jasmine uses a built-in version of the expect styles.
 * [supertest-as-promised](https://github.com/WhoopInc/supertest-as-promised) - Supercharge supertest with a promise interface
 * [Chakram](http://dareid.github.io/chakram/) is a REST API testing framework offering a BDD testing style and fully exploiting promises
 
-### Mocks & Stubs
+## Mocks & Stubs
 
 * [JsonStub](http://jsonstub.com/) - Fake your backend
 * [Mockable](https://www.mockable.io)
@@ -51,14 +51,14 @@ Jasmine uses a built-in version of the expect styles.
 * [Wiremock](http://wiremock.org/)
 
 
-### Browser Testing
+## Browser Testing
 
 * [Sauce Labs](https://saucelabs.com/) - Cross Browser Testing, Mobile Web Testing & JS Unit Testing
 * [Browserling](https://www.browserling.com/) - Live interactive cross-browser testing
 * [Browserstack](https://www.browserstack.com/) - Live, Web-Based Browser Testing
 * [Testing Bot](https://testingbot.com/) - Automated and manual browser testing
 
-### Misc
+## Misc
 
 * [PhantomJS](http://phantomjs.org/) is a headless WebKit scriptable with a JavaScript API.
 * [SeleniumHQ](http://docs.seleniumhq.org/) is for automating web applications for testing purposes
@@ -67,7 +67,7 @@ Jasmine uses a built-in version of the expect styles.
 * [gremlins.js](https://github.com/marmelab/gremlins.js) is monkey testing for JS
 
 
-### Stress Testing
+## Stress Testing
 
 * [stresser](https://github.com/legraphista/stresser) - Stress tests HTTP(s) endpoints
 
