@@ -48,6 +48,7 @@ module.exports = {
                     '/misc/gulp',
                     '/misc/large-scale-javascript',
                     '/misc/microservices',
+                    '/misc/staff-training',
                     '/misc/the-mobile-web',
                     '/misc/typescript'
                 ]
