@@ -24,7 +24,7 @@ description: Node.js Resources
 ## Databases
 
 * [Bookshelf.js](http://bookshelfjs.org/) - Built on [knex.js](http://knexjs.org/)
-* [knex](http://knexjs.org/) - a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, and Oracle
+* :+1: [knex](http://knexjs.org/) - a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, and Oracle
 * [mongoose](http://mongoosejs.com/) - Schema-based elegant mongodb object modeling for node.js using MongoDB
 * [NeDB](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 * [node-persist](https://github.com/joeferner/node-persist) - Node.js ORM framework supporting MySQL and SQLite 3 relational databases
@@ -38,7 +38,7 @@ description: Node.js Resources
 
 Have a look at the [Node Frameworks page](http://nodeframework.com/)
 
-* [Adonis](https://adonisjs.com/) - Looks minimalistic but also capable
+* [Adonis](https://adonisjs.com/) - AdonisJs is a Node.js web framework with a breath of fresh air and drizzle of elegant syntax on top of it.
 * [Cote](http://cote.js.org/) - A Node.js library for building zero-configuration microservices
 * [express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 * [Fastify](https://www.fastify.io/) - Fast and low overhead web framework, for Node.js
@@ -46,6 +46,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [hapi](http://hapijs.com/) - A rich framework for building applications and services
 * [koa](http://koajs.com/) - Next generation web framework for Node.js
 * [LoopBack](http://loopback.io/) is a highly-extensible, open-source Node.js framework
+* [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
 * :+1: [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 * [Nodal](http://www.nodaljs.com/) is a ES6 API Server and Framework for Node
 * [Restify](http://restify.com/) is a node.js module built specifically to enable you to build correct REST web services.
@@ -54,30 +55,15 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [strapi](http://strapi.io/) - The next generation framework for Node.js
 * [Trails](https://trailsjs.io/) - A Modern Web Application Framework for Node.js
 
-
-## Hapi
-
-* [RealWorld Example App with Hapi](https://github.com/gothinkster/hapijs-realworld-example-app)
-* [hapi Coding Conventions](https://github.com/hapijs/contrib/blob/master/Style.md)
-* [RestHapi](https://github.com/JKHeadley/rest-hapi) -A RESTful API generator for hapi
-* [hapijs-status-monitor](https://github.com/ziyasal/hapijs-status-monitor)
-* [hapi-notification-server](https://github.com/tectual/hapi-notification-server) - Hapi Push Notification Server as a plugin
-* [Susie](https://github.com/mtharrison/susie) - Server-sent events with hapi
-* [GraphQL for Hapi](https://github.com/apollographql/apollo-server/tree/master/packages/apollo-server-hapi)
-* [hapi tutorial series code repo](https://github.com/fs-opensource/nodejs-tutorials-hapi)
-
-### Plugins
-
-* [Joi](https://github.com/hapijs/joi)
-
-
-
 ## Http
 
+* [htpie](https://github.com/lukeed/httpie) - A Node.js HTTP client as easy as pie! 🥧
 * [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
+* [Wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities for Hapi.js
 
 ## Logging
 
+* :+1: [Consola](https://github.com/nuxt/consola) - Elegant Console Logger for Node.js and Browser
 * [Debug](https://github.com/visionmedia/debug#readme)
 * [Pino](http://getpino.io/#/) - Very low overhead Node.js logger, inspired by Bunyan.
 * [roarr](https://github.com/gajus/roarr) -JSON logger for Node.js and browser.
@@ -129,6 +115,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [EJS](http://www.embeddedjs.com/)
 * [Handlebars](https://handlebarsjs.com/)
 * [Jade](http://jade-lang.com/) is the default templating language for express but I'm not sold on the syntax.
+* [Marko.js](https://markojs.com)
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [Vash](https://github.com/kirbysayshi/vash) Templating language with Razor syntax
 

@@ -9,11 +9,12 @@ description: Developer resources
 simple conventions to empower your creativity.
 * [elm](https://elm-lang.org/) - A delightful language for reliable webapps.
 * [ember.js](http://emberjs.com/) - A framework for creating abitious web applications
+* [Hyperapp](https://github.com/jorgebucaran/hyperapp) - 1 kB JavaScript micro-framework for building declarative web applications
 * [Polymer](https://www.polymer-project.org)
 * [Preact](https://preactjs.com/) - Fast 3kB alternative to React with the same modern API.
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 * [Stencil](https://stenciljs.com/) - The magical, reusable web component compiler
-* [Svelte](https://svelte.technology/) - The magical disappearing UI framework
+* :+1: [Svelte](https://svelte.technology/) - The magical disappearing UI framework
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 
 ## Angular
@@ -47,3 +48,6 @@ simple conventions to empower your creativity.
 ## Vue
 
 * [Build Your First Vue.js App](https://courses.vuejsdevelopers.com/p/build-your-first-vue-js-app) - Free Starter Video Course
+* [Vue Glide](https://antonreshetov.github.io/vue-glide/) - Vue component on top of the [Glide.js](https://glidejs.com/).
+* [Element](https://element.eleme.io/#/en-US) - Element, a Vue 2.0 based component library for developers, designers and product managers.
+* [Buefy](https://buefy.github.io/) - Lightweight UI components for Vue.js based on Bulma

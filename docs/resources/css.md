@@ -40,7 +40,7 @@ description: CSS Resources
 * [Paper.css](https://www.getpapercss.com/) - the less formal CSS framework. Great for prototyping
 * [Semantic UI](http://semantic-ui.com/)
 * [Tachyons](http://tachyons.io/)
-* [Tailwind](https://tailwindcss.com/)
+* :+1: [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom user interfaces
 * [Topcoat](http://topcoat.io/)
 * [Pure.css](http://purecss.io/)
 * [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
@@ -79,6 +79,7 @@ description: CSS Resources
 
 ## Misc
 
+* [Grid By Example](https://gridbyexample.com/) - Learn CSS Grid
 * [The Ultimate Guide to Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
 * http://learnlayout.com/
 * https://thecssworkshop.com/

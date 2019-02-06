@@ -115,6 +115,7 @@ providing simple and advanced number, money and currency formatting.
 * [CurrencyFormatter.js](https://osrec.github.io/currencyFormatter.js/)
 * [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 * [dinero.js](https://github.com/sarahdayan/dinero.js) - An immutable library to create, calculate and format money.
+* [Finance.js](http://financejs.org/) - Finance.js makes it easy to incorporate common financial calculations into your application.
 * [libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, storing and validating international phone numbers
 * [money.js](http://openexchangerates.github.io/money.js/) - Simple JavaScript currency conversion library with no dependencies, in just over 1 kb
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.

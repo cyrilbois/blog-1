@@ -84,6 +84,7 @@ module.exports = {
                     '/resources/css',
                     '/resources/db',
                     '/resources/graphics',
+                    '/resources/hapi',
                     '/resources/libs',
                     '/resources/markdown',
                     '/resources/node',
