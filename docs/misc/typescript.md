@@ -5,7 +5,7 @@ date: 2019-01-07
 description: A introduction to using TypeScript.
 ---
 
-TypeScript is a superset of ECMAScript that brings us latest features, features that don't exist yet, strong typing.
+TypeScript is a superset of ECMAScript that brings new language features and selectively strong typing. Being a superset naturally means that all JavaScript is valid TypeScript. TypeScript is transpiled into JS code to run on node or in the browser.
 
 ## Resources
 
@@ -21,8 +21,9 @@ TypeScript is a superset of ECMAScript that brings us latest features, features 
 ## Install
 
 ```
-npm i -g typescript
-tsc -v
+npm i -g typescript # use @next suffix for latest
+tsc -v              # display version
+tsc                 # display all options
 ```
 
 ### Project Init
