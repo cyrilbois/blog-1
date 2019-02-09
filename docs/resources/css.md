@@ -35,6 +35,7 @@ description: CSS Resources
 * [Jeet](http://jeet.gs/)
 * [Material Design Lite](https://getmdl.io/index.html)
 * [Materialize](http://materializecss.com/)
+* [Milligram](https://milligram.io/) - A minimalist CSS framework
 * [MUI](https://www.muicss.com/)
 * [Kite](http://hiloki.github.io/kitecss/) is a flexible layout helper CSS library
 * [Paper.css](https://www.getpapercss.com/) - the less formal CSS framework. Great for prototyping
