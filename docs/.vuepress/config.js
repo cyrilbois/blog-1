@@ -24,7 +24,8 @@ module.exports = {
                 children: [
                     '/client/polymer',
                     '/client/progressive-web-apps',
-                    '/client/react'
+                    '/client/react',
+                    '/client/angular/angular-ui-router'
                 ]
             },
             {
