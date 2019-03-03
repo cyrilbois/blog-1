@@ -21,6 +21,7 @@ description: UX resources
 
 ## Tools
 
+* [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 * [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)
 * [Axure](http://www.axure.com/) interactive wireframing
 * [Prevue](https://prevue.it/) is a design sharing tool for designers and agencies.

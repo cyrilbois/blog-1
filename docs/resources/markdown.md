@@ -6,6 +6,7 @@
 * [Draft](https://draftin.com) - Online Markdown  documentation tool
 * [Kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing
 * [Markvis](https://markvis.js.org/#/) - Make visualization in markdown.
+* [MarkText](https://marktext.github.io/website/) - a Markdown editor for Mac, Windows, and Linux
 * [TorchPad](https://torchpad.com/)
 * [Typora](https://typora.io/)
 * [Wiki.js](https://wiki.js.org/) - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
@@ -23,6 +24,8 @@
 ## Misc
 
 * [Bedecked](https://github.com/jtrussell/bedecked) - Turn Markdown files into html presentations
+* [CMS.js](https://github.com/chrisdiana/cms.js)
 * [Doclets](https://doclets.io/) - Beautiful Javascript API-Docs made simple
 * [HUGO](https://gohugo.io/) - A fast and modern static website engine
 * [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer
+* [MiniNote](https://github.com/n1try/mininote) - A simple Markdown note-taking editor

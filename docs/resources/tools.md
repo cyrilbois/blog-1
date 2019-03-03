@@ -10,6 +10,10 @@ description: Various Tools for JS Development
 * [Parcel](https://parceljs.org/)
 * [Webpack](https://webpack.js.org/)
 
+## Content Management Services
+
+* [Contentful](https://www.contentful.com/) -
+
 ## Documentation
 
 * [dGeni](https://github.com/angular/dgeni)
@@ -20,6 +24,7 @@ description: Various Tools for JS Development
 
 ## Generators/Scaffolding
 
+* [Create GUIDs online](https://www.guidgen.com/)
 * [Slush](http://slushjs.github.io/generators/#/)
 * [Yeoman](http://yeoman.io/)
 

@@ -49,6 +49,7 @@ description: Various useful software for development
 ## Editors and IDEs
 
 * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 * [Cloud9](https://c9.io/) combines a powerful online code editor with a full Ubuntu workspace in the cloud
 * [Nitrous](https://pro.nitrous.io/) - Cloud-based code editor with collaboration, one-click installs and snapshots
 * JetBrains [WebStorm](https://www.jetbrains.com/webstorm/) is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js

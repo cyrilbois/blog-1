@@ -3,6 +3,7 @@ title: Node.js
 description: Node.js Resources
 ---
 
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 * [NodeJS Official Docs](https://nodejs.org/en/docs/)
 * [Node Releases](https://github.com/nodejs/Release)
 * [NodeJS ES2015 Support](http://node.green/)
@@ -10,12 +11,13 @@ description: Node.js Resources
 * [Learn Node](https://learnnode.com/)
 * [Nodecasts](https://nodecasts.io/)
 * [Node Compatibility Table](https://node.green/)
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+* :+1: [Practical Node](https://github.com/azat-co/practicalnode)
 * [PM2](http://pm2.keymetrics.io/) - Advanced Node.js Process Manager
 * [Express Boilerplate](https://github.com/danielfsousa/express-rest-es2017-boilerplate)
 
 ## CQRS
 
+* [Eventstore.org](https://eventstore.org/)
 * [node-eventstore](http://eventstore.js.org/)
 * [RabbitMQ](https://www.rabbitmq.com/)
 * [servicebus](https://github.com/mateodelnorte/servicebus) - Simple service bus for sending events between processes using amqp.
@@ -40,10 +42,11 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 
 * [Adonis](https://adonisjs.com/) - AdonisJs is a Node.js web framework with a breath of fresh air and drizzle of elegant syntax on top of it.
 * [Cote](http://cote.js.org/) - A Node.js library for building zero-configuration microservices
+* [DerbyJS](https://derbyjs.com/) - a full-stack framework for writing modern web applications
 * [express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 * [Fastify](https://www.fastify.io/) - Fast and low overhead web framework, for Node.js
 * [Feathers](http://feathersjs.com/) is a very thin wrapper on top of Express and Socket.io
-* [hapi](http://hapijs.com/) - A rich framework for building applications and services
+* :+1: [hapi](http://hapijs.com/) - A rich framework for building applications and services
 * [koa](http://koajs.com/) - Next generation web framework for Node.js
 * [LoopBack](http://loopback.io/) is a highly-extensible, open-source Node.js framework
 * [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
@@ -53,6 +56,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
   * [Cheatsheet](https://gist.github.com/LeCoupa/0664e885fd74152d1f90)
 * [Server.js](https://serverjs.io/) - Simple, modern server framework for REST and Socket.io
 * [strapi](http://strapi.io/) - The next generation framework for Node.js
+* [Supercharge](https://superchargejs.com/) website and [Github](https://github.com/superchargejs) page.
 * [Trails](https://trailsjs.io/) - A Modern Web Application Framework for Node.js
 
 ## Http
@@ -60,6 +64,10 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [htpie](https://github.com/lukeed/httpie) - A Node.js HTTP client as easy as pie! 🥧
 * [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
 * [Wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities for Hapi.js
+
+## Images
+
+* [Sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
 
 ## Logging
 
@@ -73,6 +81,12 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [morgan](https://github.com/expressjs/morgan) is the standard library used by express
 * [node-bunyan](https://github.com/trentm/node-bunyan) typically used with [Restify] along with [restify-bunyan-logger](https://github.com/AnyFetch/restify-bunyan-logger)
 * [signale](https://github.com/klaussinani/signale) - Hackable console logger
+
+## Messaging
+
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis Simple Message Queue](https://github.com/smrchy/rsmq)
+* [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ as a Service
 
 ## Misc
 
@@ -97,6 +111,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [ShellJS](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node
 * [Sockette](https://github.com/lukeed/sockette) -
 * [sse-channel](https://github.com/rexxars/sse-channel) - he cutest little WebSocket wrapper!
+* [Twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 
 ## Security
 
@@ -107,7 +122,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 ## Scheduling
 
 * [Agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-* [Bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling jobs and messages in NodeJS.
+* :+1: [Bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling jobs and messages in NodeJS.
 * [Kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
 
 ## Templating
@@ -115,11 +130,13 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [EJS](http://www.embeddedjs.com/)
 * [Handlebars](https://handlebarsjs.com/)
 * [Jade](http://jade-lang.com/) is the default templating language for express but I'm not sold on the syntax.
-* [Marko.js](https://markojs.com)
+* :+1: [Marko.js](https://markojs.com)
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [Vash](https://github.com/kirbysayshi/vash) Templating language with Razor syntax
 
 ## Tools
 
+* [Commander.js](https://github.com/tj/commander.js/) - node.js command-line interfaces made easy
+* [Oclif](https://oclif.io/) The Open CLI Framework
 * [nvm](https://github.com/creationix/nvm) - Simple bash script to manage multiple active node.js versions
 * [nvm-Windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.

@@ -25,13 +25,15 @@ description: Vue.js resources
 
 * [Best Vue.js Frameworks](https://madewithvuejs.com/blog/the-best-vue-js-frameworks)
 * [Buefy](https://buefy.github.io/) Bulma-based
+* [Element](http://element.eleme.io/#/en-US) - Element, a Vue 2.0 based component library for developers, designers and product managers
+* [Muse-UI](https://muse-ui.org/#/en-US/) - Based on the Vue 2.0 elegant Material Design UI component library
+* [Keen UI](https://josephuspaye.github.io/Keen-UI/) - a Vue.js UI library with a simple API, inspired by Google's Material Design.
 * [Quasar Framework](https://quasar-framework.org/)
-* [Element](http://element.eleme.io/#/en-US)
 * [VueStrap](https://yuche.github.io/vue-strap/) - Bootstrap components built with Vue.js.
-* [Vuikit](https://github.com/vuikit/vuikit) - Vuikit is a collection of Vue components built on top of the awesome UIkit framework.
+* [Vuikit](https://vuikit.js.org/) - Vuikit is a collection of Vue components built on top of the awesome UIkit framework.
 * [Vuetify.js](https://vuetifyjs.com/) is a semantic component framework for Vue.js using Material Design
 * [Vue Material](http://vuematerial.io/#/)
-* [Keen UI](https://josephuspaye.github.io/Keen-UI/)
+
 * [iView](https://www.iviewui.com/)
 * [Quasar](https://quasar-framework.org/)
 * [Vuesax](https://lusaxweb.github.io/vuesax/) Frontend Vue Components

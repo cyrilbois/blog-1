@@ -33,10 +33,7 @@ description: CSS Resources
 * [Flat UI](http://designmodo.github.io/Flat-UI/)
 * [Foundation](http://foundation.zurb.com/)
 * [Jeet](http://jeet.gs/)
-* [Material Design Lite](https://getmdl.io/index.html)
-* [Materialize](http://materializecss.com/)
 * [Milligram](https://milligram.io/) - A minimalist CSS framework
-* [MUI](https://www.muicss.com/)
 * [Kite](http://hiloki.github.io/kitecss/) is a flexible layout helper CSS library
 * [Paper.css](https://www.getpapercss.com/) - the less formal CSS framework. Great for prototyping
 * [Semantic UI](http://semantic-ui.com/)
@@ -45,6 +42,13 @@ description: CSS Resources
 * [Topcoat](http://topcoat.io/)
 * [Pure.css](http://purecss.io/)
 * [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+
+### Material Design
+
+* [Material Design Lite](https://getmdl.io)
+* [Materialize](http://materializecss.com/)
+* [MUI](https://www.muicss.com/)
+
 
 
 ## Images
