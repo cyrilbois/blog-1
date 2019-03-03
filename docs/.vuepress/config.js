@@ -93,6 +93,7 @@ module.exports = {
                     '/resources/testing',
                     '/resources/tools',
                     '/resources/ux',
+                    '/resources/vue',
                     '/resources/widgets'
                 ]
             },
