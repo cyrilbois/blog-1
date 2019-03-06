@@ -84,6 +84,7 @@ programming helpers without extending any built-in objects.
 
 * [clipboardjs](https://clipboardjs.com/) - A modern approach to copy text to clipboard. No Flash. No dependencies.
 * [crypto-js](https://code.google.com/archive/p/crypto-js/) - JavaScript implementations of standard and secure cryptographic algorithms
+* [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 * [highlight.js](https://highlightjs.org/) -  Syntax highlighting for the Web
 * [howler.js](https://howlerjs.com/) makes working with audio in JavaScript easy and reliable across all platforms.
 * [iMask.js](https://unmanner.github.io/imaskjs/) - vanilla javascript input mask

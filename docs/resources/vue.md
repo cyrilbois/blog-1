@@ -48,4 +48,5 @@ description: Vue.js resources
 
 * [Practical Vue.js source code](https://github.com/danielschmitz/vue-codes)
 * [Packt, Vuejs-2-Cookbook](https://github.com/PacktPublishing/Vuejs-2-Cookbook)
+* [Packt, Vue.JS 2.5+ by Example](https://github.com/PacktPublishing/Vue.js-2.x-by-Example)
 * [Udemy, Vue JS - Mastering Web Apps](https://github.com/15Dkatz/vue-guides)
