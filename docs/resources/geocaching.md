@@ -15,7 +15,10 @@ description: Geocaching resources
 
 ## Tools
 
-*
+* [Geocaching Toolbox](https://www.geocachingtoolbox.com/)
+* [Geocalcing](http://xiit.dy.fi/gc/)
+* [GeoTools](http://geotools.org/)
+
 
 ## Misc
 
