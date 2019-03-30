@@ -4,6 +4,10 @@ lang: en-US
 description: Geocaching resources
 ---
 
+* [Geocaching.com](https://www.geocaching.com)
+* [Geocache.fi](https://www.geocache.fi/index.php)
+
+
 ## Portals
 
 * [Project GC](https://project-gc.com/)
@@ -22,8 +26,10 @@ description: Geocaching resources
 
 ## Misc
 
+* [TERMS OF USE AGREEMENT](https://www.geocaching.com/account/documents/termsofuse)
+* [Geocache hiding guidelines](https://www.geocaching.com/play/guidelines)
 * [Introduktion till geocaching med barn](https://www.pappasappar.se/geocaching/)
-
+* [Maintenance expectations](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=38&pgid=57)
 
 ## Gear
 
