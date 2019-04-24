@@ -13,6 +13,7 @@ description: Munzee Resources
 * [Retailers](https://www.munzee.com/retail/)
 * [Specials Map](https://www.munzee.com/specials)
 * [Zeeops](https://zeeops.munzee.com/)
+* [Munzee Types](http://www.frankbroughton.us/munzee_types.html)
 
 
 ## Friends
@@ -40,6 +41,7 @@ description: Munzee Resources
 * [Kaunas Basketball](https://docs.google.com/spreadsheets/d/1s70ce7vPCLgfIw8W_nheAe6rMB7P1t89RSSRaUY6_44/edit?fbclid=IwAR0rAR5lHidwQx0n4Uh8HRMnVAajduAvg-H8D4FcQ_RVMwQk0TYAAissfao#gid=516675259)
 * [Karlsruhe Teddy](https://docs.google.com/spreadsheets/d/1XKBbunIxRJ2oI0aKCFzWjDMlJ5_w9pm8CBVjj25rx00/edit#gid=2102999170)
 * [The London Donut Cat](https://docs.google.com/spreadsheets/d/1_cmHCdBfJC9ps3hxiPszz-8AVGHjEC0dEGGTgqaq82s/edit?fbclid=IwAR3wo1XBAZYVwGSKzhNT5x4n4sKUDXS-K757K7VRuSwD4QIAFa-i4iG1fqE#gid=1540336460)
+* [Superman vs Batman](https://docs.google.com/spreadsheets/d/1pStGRplrS21F4-tUN7zMH8OKiSoFRYdBsOW6ykj-WeI/edit#gid=312682860)
 
 ### Full
 
