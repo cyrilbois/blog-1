@@ -29,6 +29,14 @@ module.exports = {
                 ]
             },
             {
+                title: 'DevOps',
+                children: [
+                    '/devops/',
+                    '/devops/ansible',
+                    '/devops/powershell'
+                ]
+            },
+            {
                 title: 'JavaScript',
                 children: [
                     '/js/',
