@@ -1,7 +1,10 @@
 ---
-title: Resources
+title: About
 description: JavaScript Resources
 ---
+
+This section contains a bunch of collected resources mainly for Web Development but I also have something on [Munzee](./munzee.md) and [Geocaching](./geocaching.md) as well.
+
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [W3Schools HTML tags reference](http://www.w3schools.com/tags/)
