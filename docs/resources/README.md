@@ -7,6 +7,8 @@ description: JavaScript Resources
 * [W3Schools HTML tags reference](http://www.w3schools.com/tags/)
 * [ES6 Compatibility Table](http://kangax.github.io/compat-table/es6/)
 * [The Modern Javascript Tutorial](https://javascript.info/)
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
+* [JavaScript Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme)
 
 * [30-seconds](https://github.com/30-seconds/30-seconds-of-code#readme)
 * [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts#readme)

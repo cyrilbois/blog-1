@@ -30,30 +30,16 @@ $ sudo apt-get install ansible
 
 ### Target Machines
 
-* Python and OpenSSH
+* Python and OpenSSH/Powershell
 * apt-get install python-minimal -no-install-recommends
 * Connect via SSH and accept the host key --accept-hostkey
 
-```bash
-sudo lxc exec web1 apt-get install python-minimal
-```
-
-## Config
+### Config
 
 * Unix-style. First ANSIBLE_CFG environment variable
 * ansible.cfg in current dir
 * User home dir ~./.ansible.cfg
 * Default settings - /etc/ansible/ansible.cfg Have a look for available settings!
-
-> **Playbooks** contain **plays**
-Plays contain **tasks**
-Tasks call **modules**
-
-> Tasks run **sequentially**
-
-> **Handlers** are triggered by **tasks**,
-and are run once, at the end of plays
-
 
 ## Inventories
 
@@ -74,8 +60,35 @@ Add a similarly structured inventory file in your working folder
 
 `ansible-playbook -i inventory`
 
-## Playbooks
+## Using Ansible
 
+* Run ad-hoc commands: `ansible <inventory> -m`
+* Run playbooks: `ansible-playbook`
+* Use Automation Framework: [Ansible Tower](https://www.ansible.com/products/tower)
+
+### Commands
+
+Use for running one-off tasks
+
+```bash
+ansible 127.0.0.1 -m ping -u root                       # ping a host
+ansible web -m ping -u root -i hosts                    # ping all hosts grouped under web in inventory hosts 
+ansible allmachines -a "free -m" -i hosts -u root       # Run raw command
+ansible allmachines -a "dpkg -l | grep nginx" -i hosts -u root
+ansible web -a "apt-get update" -i hosts -u root
+ansible web -a "apt-get -y install nginx" -i hosts -u root # install nginx on all web hosts
+ansible web -m service -a "name=nginx state=restarted" -i hosts -u root
+```
+
+
+### Playbooks
+
+* A **Playbook** contains **plays**
+* Plays contain **tasks**
+* Tasks call **modules**
+* Tasks run **sequentially**
+* **Handlers** are triggered by **tasks**,
+and are run once, at the end of plays
 * An ansible playbook is a collection of tasks
 * Plain-text YAML files describing desired state
 * Human and machine readable
@@ -107,22 +120,4 @@ with_items, fail_when, changed_when, until, ignore_errors
 
 An Ansible Role is a fully self-contained playbook. Galaxy is a community for these.
 
-## Using Ansible
 
-* Ad-hoc: `ansible <inventory> -m`
-* Playbooks: `ansible-playbook`
-* Automation Framework: Ansible Tower
-
-### Ad-Hoc Commands
-
-Use for running one-off tasks
-
-```
-ansible 127.0.0.1 -m ping -u root                       # ping a host
-ansible web -m ping -u root -i hosts                    # ping all hosts grouped under web in hosts inventory
-ansible allmachines -a "free -m" -i hosts -u root       # Run raw command
-ansible allmachines -a "dpkg -l | grep nginx" -i hosts -u root
-ansible web -a "apt-get update" -i hosts -u root
-ansible web -a "apt-get -y install nginx" -i hosts -u root # install nginx on all web hosts
-ansible web -m service -a "name=nginx state=restarted" -i hosts -u root
-```

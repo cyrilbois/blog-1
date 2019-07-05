@@ -47,6 +47,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [Fastify](https://www.fastify.io/) - Fast and low overhead web framework, for Node.js
 * [Feathers](http://feathersjs.com/) is a very thin wrapper on top of Express and Socket.io
 * :+1: [hapi](http://hapijs.com/) - A rich framework for building applications and services
+* [Hydra](https://www.hydramicroservice.com/) - a NodeJS package, which facilitates building distributed applications such as Microservices
 * [koa](http://koajs.com/) - Next generation web framework for Node.js
 * [LoopBack](http://loopback.io/) is a highly-extensible, open-source Node.js framework
 * [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
@@ -67,6 +68,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 
 ## Images
 
+* [GraphicsMagick](http://aheckmann.github.io/gm/)
 * [Sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
 
 ## Logging
@@ -104,6 +106,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
 * [nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging
 * [Nanoid](https://github.com/ai/nanoid) - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+* [node-csv](https://github.com/adaltas/node-csv)
 * [node-webhooks](https://github.com/roccomuso/node-webhooks) - Node.js module to create and trigger your own webHooks.
 * [Nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 * [Promise.prototype.finally](https://github.com/es-shims/Promise.prototype.finally)

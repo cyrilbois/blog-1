@@ -100,6 +100,7 @@ programming helpers without extending any built-in objects.
 * [Page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
 * [Papa Parse](http://papaparse.com/) CSV parser
 * [pdfmake](http://pdfmake.org/#/) - Client/server side PDF printing in pure JavaScript
+* [pdfkit](https://github.com/foliojs/pdfkit)
 * [QuaggaJS](https://serratus.github.io/quaggaJS/) is a barcode-scanner entirely written in JavaScript supporting real- time localization and decoding of various types of barcodes such as EAN, CODE 128, CODE 39, EAN 8, UPC-A, UPC-C, I2of5 and CODABARthey've lost internet connectivity
 * [Ramda](https://ramdajs.com/) -  practical functional library for JavaScript programmers.
 * [remarkabl](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed

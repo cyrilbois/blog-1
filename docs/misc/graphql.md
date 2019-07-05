@@ -48,7 +48,6 @@ GraphiQL is like the GraphQL version of a REST API testing tool like Postman. It
 
 
 
-
 ## Resources
 
 * [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
@@ -59,6 +58,7 @@ GraphiQL is like the GraphQL version of a REST API testing tool like Postman. It
 * [KnowThen Course](https://courses.knowthen.com/p/graphql-for-beginners-with-javascript) - GraphQL For Beginners with JavaScript
 * [Prisma](https://www.prisma.io/)
 * [Graphcool](https://www.graph.cool/)
+* [Andrew Mead Course Playground](https://graphql-demo.mead.io/)
 
 
 

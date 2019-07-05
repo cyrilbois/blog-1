@@ -150,6 +150,7 @@ http://api/Customers/123/Invoices?date=2014-0101&type=credit
 
 ### Response Formats
 
+* See [JSend](https://github.com/omniti-labs/jsend) format.
 * Content negotiation is a best practice. Use Accept header to determine format. `Accept: application/json, text/xml`
 * Can use URIs to specify format but not recommended. Use only if you need to use clients that cannot use headers.
 

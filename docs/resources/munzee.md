@@ -14,6 +14,7 @@ description: Munzee Resources
 * [Specials Map](https://www.munzee.com/specials)
 * [Zeeops](https://zeeops.munzee.com/)
 * [Munzee Types](http://www.frankbroughton.us/munzee_types.html)
+* [PinPoints Reward Options](https://www.munzee.com/pinpointsrewards/)
 
 
 ## Friends
@@ -31,6 +32,7 @@ description: Munzee Resources
 
 ## Gardens
 
+* [Juna Jyskyttää](https://docs.google.com/spreadsheets/d/1fCrwp-CbgzRqpCUPCwg5sD2ROdhhGn9tuPl-PiK6JRs/edit#gid=1889469553)
 * [Kokkola Flats Garden](https://docs.google.com/spreadsheets/d/1fQa21aKTobJ8GC7TqdZORO_SiC7W4VTHjdGxIfB-3Uo/edit#gid=1422428245)
 * [Solros Jakobstad](https://docs.google.com/spreadsheets/d/1SGoymkmBRsPbYh_uGEXo4DTxyFs7zCLZVKSi6Zb4Alc/edit#gid=754197995)
 * [Flat Holm Garden](https://docs.google.com/spreadsheets/d/1UOjaA5hS5qB8s5yQHb7Ah7aTDSkxCC0NcsWBtoAc2Dk/edit?fbclid=IwAR3my7Nf9V_QNiPpwoEZXDZgrDho_hmgnqs9wJXE4dGKgIE7oaNPuV7DfoY#gid=2105576186)
