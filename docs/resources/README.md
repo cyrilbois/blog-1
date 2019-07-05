@@ -1,5 +1,5 @@
 ---
-title: About
+title: Resources
 description: JavaScript Resources
 ---
 
