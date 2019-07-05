@@ -96,7 +96,7 @@ module.exports = {
                     '/resources/hapi',
                     '/resources/libs',
                     '/resources/markdown',
-                    '/resources/node',
+                    '/resources/node.md',
                     '/resources/software',
                     '/resources/testing',
                     '/resources/tools',

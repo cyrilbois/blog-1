@@ -8,7 +8,9 @@ Description: Stuff to look into
 * [30 seconds of Code](https://30secondsofcode.org/)
 * [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#readme)
 * [ES2015+ cheatsheet](https://devhints.io/es6)
+* [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/)
+* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly!
 * [JS Must Watch List](https://github.com/bolshchikov/js-must-watch)
 * [The curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [The Modern JavaScript Tutorial](http://javascript.info/)
@@ -17,12 +19,14 @@ Description: Stuff to look into
 
 ## Blogs
 
+* [CodingHeroes](http://codingheroes.io) - Jonas Schmedtmann
 * [Scotch.io](http://scotch.io/)
 * [Todd Motto](http://toddmotto.com/)
 * [Year of Moo](http://www.yearofmoo.com/)
 * [John Papa](http://www.johnpapa.net/)
 * [Dan Wahlin](https://weblogs.asp.net/dwahlin)
 * [Shawn Wildermuth](http://wildermuth.com/)
+* [The Code Barbarian](http://thecodebarbarian.com/)
 
 ## Books
 
@@ -60,6 +64,10 @@ Description: Stuff to look into
 ## Misc
 
 * [Computer Science Education Resource Guide](http://www.smartscholar.com/computer-science-guide/)
+* [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [Professional Programming Resources](https://github.com/charlax/professional-programming)
+* [Meltdown and Spectre](https://spectreattack.com/)
+* [Math and science done right](https://brilliant.org/)
 
 ## Newsletters
 
@@ -123,6 +131,7 @@ I've set a thumbs down emoji :-1: for the ones that are not active anymore. Look
 * [Nodeschool](http://nodeschool.io/)
 * [Pluralsight](http://pluralsight.com/) have a huge library of educational video for both .net and web developers among other topics.
 * [Safari Books Online](https://www.safaribooksonline.com) has both the O&rsquo;Reilly books and also lot&rsquo;s of video material.
+* [Scrimba](https://scrimba.com/)
 * [PACKT Publishing](https://www.packtpub.com) provides both books and videos.
 * [Udemy](https://www.udemy.com/)
 * [VTC](https://www.vtc.com/)

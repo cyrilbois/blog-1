@@ -40,12 +40,21 @@ description: Developer resources
 * [Colorblendy](http://colorblendy.com/)
 * [webcolourdata](http://webcolourdata.com/) - Provide URL to get colors
 
+## Diagramming
+
+* :+1: [Pinker.js](http://withouthaste.com/pinker/index.html) - A standalone JavaScript library for rendering code/class diagrams on your web page.
+
 ## Fonts
 
 * [Google Fonts](https://www.google.com/fonts/)
 * [Fontsquirrel](https://www.fontsquirrel.com/)
 * [Arrows](http://www.arrrows.com/)
 * [BLOKK](http://blokkfont.com/) - For Mockups
+
+
+## Images & Logos
+
+* [Open Logos](http://openlogos.org/) - free logos for your open source projects
 
 ### Programming Fonts
 
@@ -68,6 +77,10 @@ description: Developer resources
 * [Material Icons](https://material.io/tools/icons/?style=baseline)
 * [Material Design Icons](https://materialdesignicons.com/)
 * [Stackicons](http://stackicons.com/)
+## Libraries
+
+* [Rough.js](https://roughjs.com/) - Create graphics with a hand-drawn, sketchy, appearance 
+
 
 ## Misc
 

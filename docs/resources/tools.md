@@ -14,6 +14,10 @@ description: Various Tools for JS Development
 
 * [Contentful](https://www.contentful.com/) -
 
+## Diff
+
+* [Meld](http://meldmerge.org/)
+
 ## Documentation
 
 * [dGeni](https://github.com/angular/dgeni)

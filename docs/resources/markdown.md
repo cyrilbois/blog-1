@@ -5,21 +5,20 @@
 * [Dillinger](http://dillinger.io/)
 * [Draft](https://draftin.com) - Online Markdown  documentation tool
 * [Kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing
-* [Markvis](https://markvis.js.org/#/) - Make visualization in markdown.
-* [MarkText](https://marktext.github.io/website/) - a Markdown editor for Mac, Windows, and Linux
-* [TorchPad](https://torchpad.com/)
-* [Typora](https://typora.io/)
-* [Wiki.js](https://wiki.js.org/) - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
 * [Logdown](http://logdown.com/) - Mardown blogging platform
 * [Markable](http://markable.in/)
 * [MarkdownPad](http://markdownpad.com/)
+* [MarkText](https://marktext.github.io/website/) - a Markdown editor for Mac, Windows, and Linux
+* [Markvis](https://markvis.js.org/#/) - Make visualization in markdown.
 * [Mermaid](https://github.com/knsv/mermaid)
-* [Logdown](http://logdown.com/)
+* [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 * [Penflip](https://www.penflip.com/)
 * [Scriptogram](http://scriptogr.am/)
 * [StackEdit](https://stackedit.io/)
 * [Texts](http://www.texts.io/)
-
+* [TorchPad](https://torchpad.com/)
+* [Typora](https://typora.io/)
+* [Wiki.js](https://wiki.js.org/) - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
 
 ## Misc
 

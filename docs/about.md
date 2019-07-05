@@ -41,5 +41,5 @@ Themes are Code-Quality (Testing, Documentation), REST alternatives and Client-S
 * :+1: Using Node 8+ objects and arrays has .includes() function
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [The State of JS 2017](https://2017.stateofjs.com/2017/front-end/results/)
-
+* [JavaScript Rising Stars 2018](https://risingstars.js.org/2018/en/)
 

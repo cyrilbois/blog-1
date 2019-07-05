@@ -30,6 +30,7 @@ description: CSS Resources
   * [Start Bootstrap](https://startbootstrap.com/) - Free Bootstrap Themes & Templates
 * [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox
 * [Elastic CSS](http://elasticss.com/)
+* [Evie](https://evie.undraw.co) - A production-ready theme for your projects
 * [Flat UI](http://designmodo.github.io/Flat-UI/)
 * [Foundation](http://foundation.zurb.com/)
 * [Jeet](http://jeet.gs/)
@@ -42,6 +43,7 @@ description: CSS Resources
 * [Topcoat](http://topcoat.io/)
 * [Pure.css](http://purecss.io/)
 * [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+* [Wired-Elements](https://wiredjs.com/) - A set of common UI elements with a hand-drawn, sketchy look.
 
 ### Material Design
 

@@ -24,10 +24,13 @@ description: Libraries and tools for testing code
 
 ## Libraries
 
-* [frisby.js](http://frisbyjs.com/) - HTTP calls and assertions using Jest for running tests
+
 * [Chai.js](http://chaijs.com/) Assertion library supporting expect, should and assert styles.
-* [Should.js](https://github.com/tj/should.js) - Assertion library supporting should syntax
 * [expect.js](https://github.com/Automattic/expect.js) - Assertion library supporting expect syntax
+* [frisby.js](http://frisbyjs.com/) - HTTP calls and assertions using Jest for running tests
+* [Polly.js](https://netflix.github.io/pollyjs/#/) - Record, replay, and stub HTTP interactions.
+* [Should.js](https://github.com/tj/should.js) - Assertion library supporting should syntax
+
 
 Jasmine uses a built-in version of the expect styles.
 
@@ -64,6 +67,7 @@ Jasmine uses a built-in version of the expect styles.
 
 ## Misc
 
+* [Random JSON Data Generator](https://www.json-generator.com/)
 * [PhantomJS](http://phantomjs.org/) is a headless WebKit scriptable with a JavaScript API.
 * [SeleniumHQ](http://docs.seleniumhq.org/) is for automating web applications for testing purposes
 * [Casper.js](http://casperjs.org/)

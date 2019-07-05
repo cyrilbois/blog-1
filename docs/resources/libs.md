@@ -18,6 +18,8 @@ description: Developer resources
 
 * [Auth0](https://auth0.com/) single sign-on and token based authentication
 * [Stormpath](https://stormpath.com/) - Authorization/single signon as a service)
+* [grant](https://github.com/simov/grant) - OAuth Middleware for Express, Koa and Hapi
+* [Login-With](https://login-with.com/) - Stateless authentication microservice supporting many providers
 
 ## Database- and Storage libraries
 
@@ -38,7 +40,9 @@ description: Developer resources
 * [Luxon](https://moment.github.io/luxon/) - A powerful, modern, and friendly wrapper for Javascript dates and times.
 jQuery!
 * [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
+* [ms](https://github.com/zeit/ms) - Tiny milisecond conversion utility
 * [Spacetime](https://github.com/smallwins/spacetime) - A lightweight javascript timezone library
+* [TinyDate](https://github.com/lukeed/tinydate) - A tiny (340B) reusable date formatter. Extremely fast!
 * [tinytime](https://github.com/aweary/tinytime) - A straightforward date and time formatter in <1kb
 
 ## Generic
@@ -65,9 +69,14 @@ programming helpers without extending any built-in objects.
 * [valid.js](https://github.com/dleitee/valid.js) - A simple library for data validation.
 * [validator.js](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
 
+## Graphics
+
+* See Also [Graphics](/resources/graphics.md) section
+
 ## HTTP
 
 * [Axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
+* [Bent](https://github.com/mikeal/bent) - Functional HTTP client for Node.js w/ async/await.
 * [Fly.js](https://github.com/wendux/fly) - Supporting request forwarding and Promise based HTTP client for all JavaScript runtimes.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API
 * [Rapid.js](https://rapidjs.io) - a fluent framework for rapidly building API wrappers, reusable base models, and interacting with APIs
@@ -79,6 +88,10 @@ programming helpers without extending any built-in objects.
 * [GraphicStock](https://www.graphicstock.com/)
 * [Freepik](http://www.freepik.com/)
 
+## Maps
+
+* :+1: [mapbox](https://www.mapbox.com/)
+
 
 ## Misc
 
@@ -86,6 +99,7 @@ programming helpers without extending any built-in objects.
 * [crypto-js](https://code.google.com/archive/p/crypto-js/) - JavaScript implementations of standard and secure cryptographic algorithms
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 * [highlight.js](https://highlightjs.org/) -  Syntax highlighting for the Web
+* [Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks 
 * [howler.js](https://howlerjs.com/) makes working with audio in JavaScript easy and reliable across all platforms.
 * [iMask.js](https://unmanner.github.io/imaskjs/) - vanilla javascript input mask
 * [Fuse.js](http://kiro.me/projects/fuse.html) - Lightweight fuzzy-search, in JavaScript.
@@ -105,6 +119,7 @@ programming helpers without extending any built-in objects.
 * [Ramda](https://ramdajs.com/) -  practical functional library for JavaScript programmers.
 * [remarkabl](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed
 * [string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
+* [Tornis](https://tornis.robbowen.digital/) - A minimal JavaScript library that watches the state of your browser's viewport
 * [upup](https://www.talater.com/upup/) - a tiny script that makes sure your site is always there for your users
 * [WebGazer.js](https://webgazer.cs.brown.edu/)
 * [v8n](https://imbrn.github.io/v8n/#what-s-v8n) - validation lib
@@ -113,6 +128,7 @@ programming helpers without extending any built-in objects.
 ## Numbers
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/) is a tiny JavaScript library by Open Exchange Rates,
+* [AutoNumeric.js](http://autonumeric.org/) - Automatically format your numbers and currencies
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library
 providing simple and advanced number, money and currency formatting.
 * [CurrencyFormatter.js](https://osrec.github.io/currencyFormatter.js/)

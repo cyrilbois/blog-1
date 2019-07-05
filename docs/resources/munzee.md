@@ -4,6 +4,7 @@ lang: en-US
 description: Munzee Resources
 ---
 
+* [Munzee.dk](https://munzee.dk/) - Stats and more
 * [Credits](https://www.munzee.com/credits)
 * [Coinz](https://coinz.munzee.dk/?code=hJpsnHLJ6FXkAwBJiq9ZsCjAx99qZcu2Y6rG81Rs&state=)
 * [Destination Planner](https://munzstat.com/destinationplanner/)

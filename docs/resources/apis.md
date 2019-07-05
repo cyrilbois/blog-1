@@ -14,6 +14,11 @@ description: Resources for building and consuming APIs
 * [Learn REST](http://www.restapitutorial.com/)
 * [Mashup.se](http://www.mashup.se/) - Allt om APIer och öppna data
 
+## Response Formats
+
+* :+1: [JSend](https://labs.omniti.com/labs/jsend) - is a specification that lays down some rules for how JSON responses from web servers should be formatted.
+* [JSON API](http://jsonapi.org/) - A Specification for building APIs in JSON
+
 ## APIs
 
 * [Country Data](http://country.io/)
@@ -28,8 +33,7 @@ description: Resources for building and consuming APIs
 ## Tools
 
 * [Documenting Tool for APIs](http://apidocjs.com/)
-* [JSend](https://labs.omniti.com/labs/jsend) - is a specification that lays down some rules for how JSON responses from web servers should be formatted.
-* [JSON API](http://jsonapi.org/) - A Specification for building APIs in JSON
+* [httpbin.org](https://httpbin.org/) - A simple HTTP Request & Response Service.
 * [Json Generator](http://www.json-generator.com/) - Generate random data
 * [JSON Schema](http://json-schema.org/) - is a vocabulary that allows you to annotate and validate JSON documents.
 

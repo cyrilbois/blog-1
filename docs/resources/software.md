@@ -8,6 +8,20 @@ description: Various useful software for development
 
 * [cmder](http://cmder.net/) - Portable console emulator for Windows
 
+### Cloud
+
+* [Repl.it](https://repl.it)
+* [JS Fiddle](http://jsfiddle.net/)
+* [JSON Editor Online](http://jsoneditoronline.org/)
+* [CodePen](http://codepen.io/)
+* [CodeSandbox](https://codesandbox.io/) - The online code editor for AngularWeb
+* [Dabblet](http://dabblet.com/)
+* [ES6 Fiddle](http://www.es6fiddle.net/)
+* [JS Bin](http://jsbin.com)
+* [Plunker](http://plnkr.co/) is an online community for creating, collaborating on and sharing your web development ideas
+* [Repl.it](https://repl.it) - Run Server-side code in the browser.
+* [StackBlitz](https://stackblitz.com/) - Create, edit and Deploy 
+
 ## Communication
 
 * [Slack](https://slack.com/) - A messaging app for teams
@@ -60,26 +74,23 @@ description: Various useful software for development
 
 * [Sublime Text](http://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose.
 
-### Cloud
 
-* [Repl.it](https://repl.it)
-* [JS Fiddle](http://jsfiddle.net/)
-* [JSON Editor Online](http://jsoneditoronline.org/)
-* [CodePen](http://codepen.io/)
-* [Dabblet](http://dabblet.com/)
-* [ES6 Fiddle](http://www.es6fiddle.net/)
-* [JS Bin](http://jsbin.com)
-* [Plunker](http://plnkr.co/) is an online community for creating, collaborating on and sharing your web development ideas
+## Graphics
+
+* [PIXLR](https://pixlr.com/)
 
 ## Misc
 
 * [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
 * [Igloo](https://www.igloosoftware.com/)
 * [Tad](http://tadviewer.com/) - Tad is a free (MIT Licensed) desktop application for viewing and analyzing tabular data.
+* [Visualping](https://visualping.io/) Monitor webpages
+* [Forestry](https://forestry.io/#/) - Sync your Jekyll, Hugo or VuePress site.
 
 ## Notetaking
 
 * [Joplin](http://joplin.cozic.net/) - An open source note taking and to-do application with synchronisation capabilities.
+* [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ## PaaS
 
@@ -119,8 +130,10 @@ description: Various useful software for development
 
 ## Prototyping
 
+* [axure](https://www.axure.com/)
 * [balsamiq](https://balsamiq.com/)
 * [Marvel](https://marvelapp.com/)
+* [MockFlow](https://mockflow.com/)
 * [Mockingbird](https://gomockingbird.com/mockingbird/)
 * [Moqups](https://app.moqups.com)
 * [UXPin](https://www.uxpin.com/) - Collaborative UX Design for Product Teams

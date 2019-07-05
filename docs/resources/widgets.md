@@ -52,12 +52,14 @@ JavaScript.
 
 ## Dialogs
 
+* [micromodal](https://micromodal.now.sh/) - a lightweight, configurable and a11y-enabled modal library written in pure JavaScript
 * [Modaal](http://www.humaan.com/modaal/) - An accessible modal dialog window plugin for all humans.
 * [rmodal.js](https://rmodal.js.org/) - 1.2 KB modal dialog box, with no dependencies
 * [SweetAlert2](https://limonte.github.io/sweetalert2/) - A beautiful replacement for JavaScript's "alert".
 
 ## Editors
 
+* [Editor.js](https://editorjs.io/) - Next generation block styled editor. 
 * [Redactor II](https://imperavi.com/redactor/) — WYSIWYG Text Editor
 * [ToastUI](https://ui.toast.com/tui-editor/) - GFM Markdown Wysiwyg Editor - Productive and Extensible
 
@@ -65,6 +67,7 @@ JavaScript.
 
 * [gmaps.js](https://hpneo.github.io/gmaps/) - google maps api with less pain and more fun
 * [Google Maps Directions API](https://developers.google.com/maps/documentation/javascript/directions)
+* [HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 * [Leaflet](http://leafletjs.com/) - an open-source JavaScript library for mobile-friendly interactive maps
   * [Leflet Providers](https://leaflet-extras.github.io/leaflet-providers/preview/)
 

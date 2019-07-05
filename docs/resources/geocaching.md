@@ -19,10 +19,12 @@ description: Geocaching resources
 
 ## Tools
 
+* [Cachly](http://www.cach.ly/) - Simple and Powerful Geocaching
 * [Geocaching Quick Links](http://www.geocachingadmin.com/)
 * [Geocaching Toolbox](https://www.geocachingtoolbox.com/)
 * [Geocalcing](http://xiit.dy.fi/gc/)
 * [GeoTools](http://geotools.org/)
+* [QR-Code Generator](https://www.the-qrcode-generator.com/)
 
 
 ## Misc

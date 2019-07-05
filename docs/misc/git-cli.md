@@ -7,6 +7,7 @@ description: Recipes for using Git via command-line
 
 * [Oh shit, git!](http://ohshitgit.com/)
 * [First Aid git](http://firstaidgit.io/#/)
+* [Productive Git for Developers](https://egghead.io/courses/productive-git-for-developers)
 
 
 ## Check Status

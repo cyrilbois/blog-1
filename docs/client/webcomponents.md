@@ -16,6 +16,8 @@ custom html elements composed to build web apps using W3C standards standard htm
 * [Polymer Project](https://www.polymer-project.org)
 * [Pluralsight Course](http://www.pluralsight.com/courses/web-components-shadow-dom)
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
+* [Material Web Components Catalog](https://material-components.github.io/material-components-web-components/demos/index.html)
+* [Microsoft Graph](https://github.com/microsoftgraph/microsoft-graph-toolkit)
 * [Polymer Talk](https://angularu.com/VideoSession/2015sf/componentize-your-app-with-polymer-elements)
 * [Pluralsight - Vanilla Web Components...](https://app.pluralsight.com/library/courses/vanilla-web-components-practical-guide/table-of-contents)
 * [Lynda.com course](https://www.lynda.com/Web-Development-tutorials/Welcome/540537/614347-4.html)

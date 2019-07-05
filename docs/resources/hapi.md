@@ -36,7 +36,7 @@ description: Hapi.js resources
 * [Vision](https://github.com/hapijs/vision) provides template rendering support
 * [Wreck](https://github.com/hapijs/wreck) for HTTP client calls
 
-
+* [hapi-rate-limitor](https://github.com/futurestudio/hapi-rate-limitor) - A hapi plugin for rate limiting. Simple and easy.
 * [hapi-swagger](https://github.com/glennjones/hapi-swagger) - Swagger doc for APIs
 * [hapi-auth-jwt2](https://www.npmjs.com/package/hapi-auth-jwt2) - JWT Authorization
 * [hapi-error](https://github.com/dwyl/hapi-error) - friendly error page or JSON response

@@ -59,6 +59,8 @@ GraphiQL is like the GraphQL version of a REST API testing tool like Postman. It
 * [Prisma](https://www.prisma.io/)
 * [Graphcool](https://www.graph.cool/)
 * [Andrew Mead Course Playground](https://graphql-demo.mead.io/)
+* [The GraphQL Guide](https://graphql.guide/)
+* [Frontend Masters Course](https://frontendmasters.com/courses/graphql/)
 
 
 
