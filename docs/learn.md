@@ -5,17 +5,7 @@ sidebar: false
 Description: Stuff to look into
 ---
 
-* [30 seconds of Code](https://30secondsofcode.org/)
-* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#readme)
-* [ES2015+ cheatsheet](https://devhints.io/es6)
-* [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
-* [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/)
-* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly!
-* [JS Must Watch List](https://github.com/bolshchikov/js-must-watch)
-* [The curated list of awesome lists](https://github.com/sindresorhus/awesome)
-* [The Modern JavaScript Tutorial](http://javascript.info/)
-* [The twelve-factor app](https://12factor.net/)
-* [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
 
 ## Blogs
 
@@ -60,6 +50,20 @@ Description: Stuff to look into
 * [ØREDEV](http://oredev.org/)
 * [Microsoft Build](http://www.buildwindows.com/)
 * [HTML5 Developer Conference](http://html5devconf.com/)
+
+## General
+
+* [30 seconds of Code](https://30secondsofcode.org/)
+* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#readme)
+* [ES2015+ cheatsheet](https://devhints.io/es6)
+* [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+* [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/)
+* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly!
+* [JS Must Watch List](https://github.com/bolshchikov/js-must-watch)
+* [The curated list of awesome lists](https://github.com/sindresorhus/awesome)
+* [The Modern JavaScript Tutorial](http://javascript.info/)
+* [The twelve-factor app](https://12factor.net/)
+* [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ## Misc
 
