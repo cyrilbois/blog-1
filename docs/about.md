@@ -9,12 +9,15 @@ I am Kaj Lund. I've been working as a professional software developer since 1998
 
 ![LuKa](./luka.png)
 
-
 ## See also
 
 * [Learning section](./learn.md)
-* [State of JavaScript in 2018](https://stateofjs.com/)
 * [State of CSS in 2019](https://2019.stateofcss.com/)
+* [State of JavaScript in 2018](https://stateofjs.com/)
+* [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+* [JavaScript Rising Stars 2018](https://risingstars.js.org/2018/en/)
+* [The State of JS 2017](https://2017.stateofjs.com/2017/front-end/results/)
+
 
 ## Developer ToDos in 2019
 
@@ -38,7 +41,4 @@ Themes are Code-Quality (Testing, Documentation), REST alternatives and Client-S
 * :+1: New ECMA features. Check [node green](https://node.green/) for things you can use in node
 * :+1: Switch node servers to use hapi 17, Node 8+ , async/await
 * :+1: Using Node 8+ objects and arrays has .includes() function
-* [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
-* [The State of JS 2017](https://2017.stateofjs.com/2017/front-end/results/)
-* [JavaScript Rising Stars 2018](https://risingstars.js.org/2018/en/)
 

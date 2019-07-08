@@ -14,71 +14,67 @@ module.exports = {
         navbar: true,
         nav: [
             { text: 'Resources', link: '/resources/' },
-            { text: 'Learn', link: '/learn' },
-            { text: 'About', link: '/about' }
+            { text: 'Learn', link: '/learn.md' },
+            { text: 'About', link: '/about.md' }
         ],
         sidebar: [
             '/',
             {
                 title: 'Client-Side',
                 children: [
-                    '/client/polymer',
-                    '/client/progressive-web-apps',
-                    '/client/react',
-                    '/client/angular/angular-ui-router'
+                    '/client/angular/angular-ui-router.md',
+                    '/client/polymer.md',
+                    '/client/progressive-web-apps.md',
+                    '/client/react.md',
+                    '/client/spa.md',
+                    '/client/webcomponents.md'
                 ]
             },
             {
                 title: 'DevOps',
                 children: [
                     '/devops/',
-                    '/devops/ansible',
-                    '/devops/powershell'
+                    '/devops/ansible.md',
+                    '/devops/powershell.md'
                 ]
             },
             {
                 title: 'JavaScript',
                 children: [
                     '/js/',
-                    '/js/array',
-                    '/js/es6',
-                    '/js/promises'
+                    '/js/array.md',
+                    '/js/es6.md'
                 ]
             },
             {
                 title: 'Misc Topics',
                 collapsible: true,
                 children: [
-                    '/misc/api-design',
-                    '/misc/client-app-tech',
-                    '/misc/git-cli',
-                    '/misc/golang',
-                    '/misc/graphql',
-                    '/misc/gulp',
-                    '/misc/large-scale-javascript',
-                    '/misc/microservices',
-                    '/misc/staff-training',
-                    '/misc/the-mobile-web',
-                    '/misc/typescript'
+                    '/misc/api-design.md',
+                    '/misc/client-app-tech.md',
+                    '/misc/git-cli.md',
+                    '/misc/gulp.md',
+                    '/misc/rhomobile.md',
+                    '/misc/large-scale-javascript.md',
+                    '/misc/staff-training.md',
+                    '/misc/the-mobile-web.md'
                 ]
             },
             {
                 title: 'Node.js',
                 children: [
                     '/node/',
-                    '/node/basics',
-                    '/node/hapi',
-                    '/node/knex',
-                    '/node/npm'
+                    '/node/basics.md',
+                    '/node/hapi.md',
+                    '/node/knex.md'
                 ]
             }, {
                 title: 'NoSQL Databases',
                 children: [
-                    '/nosql/intro',
-                    '/nosql/mongodb',
-                    '/nosql/redis',
-                    '/nosql/firebase',
-                    '/nosql/firestore'
+                    '/nosql/intro.md',
+                    '/nosql/redis.md',
+                    '/nosql/firebase.md',
+                    '/nosql/firestore.md'
                 ]
             },
             {
@@ -86,23 +82,23 @@ module.exports = {
                 collapsible: true,
                 children: [
                     '/resources/',
-                    '/resources/angular',
-                    '/resources/apis',
-                    '/resources/bootstrap',
-                    '/resources/clientframeworks',
-                    '/resources/css',
-                    '/resources/db',
-                    '/resources/graphics',
-                    '/resources/hapi',
-                    '/resources/libs',
-                    '/resources/markdown',
+                    '/resources/angular.md',
+                    '/resources/apis.md',
+                    '/resources/bootstrap.md',
+                    '/resources/clientframeworks.md',
+                    '/resources/css.md',
+                    '/resources/db.md',
+                    '/resources/graphics.md',
+                    '/resources/hapi.md',
+                    '/resources/libs.md',
+                    '/resources/markdown.md',
                     '/resources/node.md',
-                    '/resources/software',
-                    '/resources/testing',
-                    '/resources/tools',
-                    '/resources/ux',
-                    '/resources/vue',
-                    '/resources/widgets'
+                    '/resources/software.md',
+                    '/resources/testing.md',
+                    '/resources/tools.md',
+                    '/resources/ux.md',
+                    '/resources/vue.md',
+                    '/resources/widgets.md'
                 ]
             },
             {
@@ -110,9 +106,9 @@ module.exports = {
                 collapsible: true,
                 children: [
                     '/testing/',
-                    '/testing/jasmine',
-                    '/testing/mocha',
-                    '/testing/nightwatch'
+                    '/testing/jasmine.md',
+                    '/testing/mocha.md',
+                    '/testing/nightwatch.md'
                 ]
             },
             {
@@ -120,7 +116,11 @@ module.exports = {
                 collapsible: true,
                 children: [
                     '/vue/',
-                    '/vue/basics'
+                    '/vue/basics.md',
+                    '/vue/components.md',
+                    '/vue/workflow.md',
+                    '/vue/vue-router.md',
+                    '/vue/vuex.md'
                 ]
             }
         ]

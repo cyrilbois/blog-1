@@ -1,3 +1,4 @@
+---
 title: Single Page Applications
 date: 2015-08-28T18:25:30
 description: Some thoughts on Single Page Application (SPA) frameworks and components.

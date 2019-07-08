@@ -7,7 +7,7 @@ description: Cloud Firestore
 
 Cloud Firestore is a NoSQL document-based database built for mobile and web app development. It does the same things Firebase does:
 
-1.  Allows you to access data directly in the client - serverless
+1. Allows you to access data directly in the client - serverless
 2. The accessed data is updated realtime
 3. Makes it easy to build offline experiences
 
