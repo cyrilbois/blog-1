@@ -24,16 +24,13 @@ I am Kaj Lund. I've been working as a professional software developer since 1998
 Themes are Code-Quality (Testing, Documentation), REST alternatives and Client-Side frameworks. As big part of testing in JS is type-checking, using TypeScript could be considered a part of testing.
 
 * Start using JDoc or alternative on all code.
-* Get basic knowledge on TypeScript
-* Start using TS for Node development and implement Node/Hapi template using TS
-* Create a server-template for using GraphQL using Hapi/Apollo
-* As v3 of Vue will be implemented with TS start looking at that after they have shipped or when time allows.
-* [GraphQL](./misc/graphql.md)
-* [Node Microservices](./misc/microservices.md)
-* [All About NodeJS on Udemy](https://www.udemy.com/all-about-nodejs/) for Express to compare.
-* New ECMA features. Check [node green](https://node.green/) for things you can use in node
-* Perhaps switch to [TypeScript](https://www.typescriptlang.org/)
-* Try using [GraphQL](https://graphql.org/) with [GraphCool](https://www.graph.cool/), [Prisma](https://www.prisma.io/) or [Apollo](https://www.apollographql.com/)
+* :eyes: Take a look at using [Svelte.js](https://svelte.dev/) as a client-side framework
+* :eyes: [Try Express to compare with Hapi](https://www.udemy.com/all-about-nodejs/)
+* :+1: Is [GraphQL](https://graphql.org/) a good alternative to REST?
+* Microservices with Node
+* :+1: Get basic knowledge on [TypeScript](https://www.typescriptlang.org/) as an alternative language
+* Look into new ECMA features for Node. Check [node green](https://node.green/).
+
 
 ## Developer ToDos in 2018
 
