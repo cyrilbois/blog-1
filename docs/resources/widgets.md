@@ -52,6 +52,7 @@ JavaScript.
 
 ## Dialogs
 
+* [BootboxJS](http://bootboxjs.com/) - Bootstrap modals made easy.
 * [micromodal](https://micromodal.now.sh/) - a lightweight, configurable and a11y-enabled modal library written in pure JavaScript
 * [Modaal](http://www.humaan.com/modaal/) - An accessible modal dialog window plugin for all humans.
 * [rmodal.js](https://rmodal.js.org/) - 1.2 KB modal dialog box, with no dependencies
@@ -59,6 +60,7 @@ JavaScript.
 
 ## Editors
 
+* [CKEditor 5](https://github.com/ckeditor/ckeditor5)
 * [Editor.js](https://editorjs.io/) - Next generation block styled editor. 
 * [Redactor II](https://imperavi.com/redactor/) — WYSIWYG Text Editor
 * [ToastUI](https://ui.toast.com/tui-editor/) - GFM Markdown Wysiwyg Editor - Productive and Extensible

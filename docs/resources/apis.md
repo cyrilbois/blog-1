@@ -4,6 +4,7 @@ lang: en-US
 description: Resources for building and consuming APIs
 ---
 
+* [json:api](https://jsonapi.org/) - A SPECIFICATION FOR BUILDING APIS IN JSON
 * [API Design Guide](https://github.com/interagent/http-api-design)
 * [A Practical Approach to API Design](https://leanpub.com/restful-api-design)
 * [API Katalogen](http://apikatalogen.se/)

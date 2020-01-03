@@ -4,6 +4,8 @@ lang: en-US
 description: Various Tools for JS Development
 ---
 
+* [The Front-End Tooling Survey 2018](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results)
+
 ## Bundlers
 
 * [Browserify](http://browserify.org/)
@@ -13,6 +15,10 @@ description: Various Tools for JS Development
 ## Content Management Services
 
 * [Contentful](https://www.contentful.com/) -
+
+## Data
+
+* [Mackaroo](https://mockaroo.com/) - realistic data generator
 
 ## Diff
 
@@ -24,7 +30,6 @@ description: Various Tools for JS Development
 * [documentation.js](http://documentation.js.org/)
 * [dox](https://github.com/tj/dox) - JavaScript documentation generator for node using markdown and jsdoc
 * [jsDoc](http://usejsdoc.org/)
-
 
 ## Generators/Scaffolding
 
@@ -46,6 +51,7 @@ description: Various Tools for JS Development
 
 * [&what;](http://www.amp-what.com/) - search html character entities
 * [Blind text generator](http://www.blindtextgenerator.com/)
+* [httpbin.org](https://httpbin.org/) - A simple HTTP Request & Response Service.
 * [HTML5 Boilerplate](https://html5boilerplate.com/) - The web’s most popular front-end template
 * [Initializr](http://www.initializr.com/) - is an HTML5 templates generator
 * [Generatedata.com](http://www.generatedata.com/)
@@ -63,9 +69,9 @@ description: Various Tools for JS Development
 
 ## Monitoring/Logging
 
+* [DataDog](https://www.datadoghq.com) - Proactively Monitor Node.js Application Health
 * [Opbeat](https://opbeat.com/) - Performance monitoring for developers. Server-side and client-side.
 * [Bugsnag](https://bugsnag.com/) - Detect and diagnose crashes in your applications
-* [DataDog](https://www.datadoghq.com) -
 * [Graylog](https://www.graylog.org/)
 * [InfluxData](https://influxdata.com/)
 * [Loggly](https://www.loggly.com/) - Cloud-based logging service
@@ -88,6 +94,7 @@ description: Various Tools for JS Development
 
 ## Regular Expressions
 
+* [Scrimba - Learn Regular Expressions](https://scrimba.com/g/gregularexpressions)
 * [learn-regex](https://github.com/zeeshanu/learn-regex)
 * [regexly](https://regexly.chipto.io/)
 * [Regulex](https://jex.im/regulex/)
@@ -106,6 +113,7 @@ description: Various Tools for JS Development
 * [Brunch](http://brunch.io/)
 * [Gulp](http://gulpjs.com/).
 * [Grunt](http://gruntjs.com/)
+* :+1: [Just](https://microsoft.github.io/just/)
 * [npm](https://docs.npmjs.com/misc/scripts)
 
 

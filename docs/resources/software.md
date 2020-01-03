@@ -14,13 +14,13 @@ description: Various useful software for development
 * [JS Fiddle](http://jsfiddle.net/)
 * [JSON Editor Online](http://jsoneditoronline.org/)
 * [CodePen](http://codepen.io/)
-* [CodeSandbox](https://codesandbox.io/) - The online code editor for AngularWeb
+* [CodeSandbox](https://codesandbox.io/) - An instant IDE and prototyping tool for rapid web development.
 * [Dabblet](http://dabblet.com/)
 * [ES6 Fiddle](http://www.es6fiddle.net/)
 * [JS Bin](http://jsbin.com)
 * [Plunker](http://plnkr.co/) is an online community for creating, collaborating on and sharing your web development ideas
 * [Repl.it](https://repl.it) - Run Server-side code in the browser.
-* [StackBlitz](https://stackblitz.com/) - Create, edit and Deploy 
+* [StackBlitz](https://stackblitz.com/) - Create, edit & deploy fullstack apps
 
 ## Communication
 
@@ -60,6 +60,18 @@ description: Various useful software for development
 * [Lovely Charts](http://www.lovelycharts.com/)
 * [mindmeister](https://www.mindmeister.com/) - Collaborative mind mapping
 
+## Diff Tools
+
+* [Meld](http://meldmerge.org/)
+
+## Documentation
+
+* [Docz](https://www.docz.site/) - Documentation tool built on [Gatsby](https://www.gatsbyjs.org/)
+* :+1: [Gitbook](https://www.gitbook.com/) - Document Everything! For you, your users and your team.
+* [HUGO](https://gohugo.io/) - A fast and modern static website engine
+* :+1: [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck.
+* [Vuepress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator
+
 ## Editors and IDEs
 
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -71,21 +83,38 @@ description: Various useful software for development
 * Facebook [Nuclide](http://nuclide.io/) - A unified developer experience for web and mobile development, built as a suite of packages on top of Atom to provide hackability and the support of an active community.
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 * Adobe [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design
-
 * [Sublime Text](http://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose.
+* [Xi](https://xi-editor.io/) - Fast, reliable editor for every platform
 
 
 ## Graphics
 
 * [PIXLR](https://pixlr.com/)
 
+## Hosting
+
+* [linode](https://www.linode.com/)
+* [now](https://zeit.co/home) - World-Class Static Hosting
+
+## Logístics
+
+* [Unifaun](https://www.unifaun.com/fi/)
+* [Trucker Path](https://truckerpath.com/)
+
 ## Misc
 
+* [Outline](https://www.getoutline.com/) - Team wiki, documentation, meeting notes, playbooks, onboarding, work logs, brainstorming, & more…
 * [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
 * [Igloo](https://www.igloosoftware.com/)
+* [mailtrap](https://mailtrap.io/signin) -  is a test mail server solution that allows testing email notifications without sending them to the real users 
 * [Tad](http://tadviewer.com/) - Tad is a free (MIT Licensed) desktop application for viewing and analyzing tabular data.
 * [Visualping](https://visualping.io/) Monitor webpages
 * [Forestry](https://forestry.io/#/) - Sync your Jekyll, Hugo or VuePress site.
+
+## Monitoring and Analytics
+
+* [Grafana](https://grafana.com/)
+
 
 ## Notetaking
 
@@ -130,10 +159,10 @@ description: Various useful software for development
 
 ## Prototyping
 
-* [axure](https://www.axure.com/)
+* [axure](https://www.axure.com/) - Powerful Prototyping and Developer Handoff
 * [balsamiq](https://balsamiq.com/)
 * [Marvel](https://marvelapp.com/)
-* [MockFlow](https://mockflow.com/)
+* [MockFlow](https://mockflow.com/) - Brainstorm user interface ideas
 * [Mockingbird](https://gomockingbird.com/mockingbird/)
 * [Moqups](https://app.moqups.com)
 * [UXPin](https://www.uxpin.com/) - Collaborative UX Design for Product Teams
@@ -143,6 +172,12 @@ description: Various useful software for development
 
 
 * [Rundeck](http://rundeck.org/) job scheduler
+
+## Static Site builders
+
+* [HUGO](https://gohugo.io/) - A fast and modern static website engine
+* [Vuepress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator
+
 
 ## Testing
 

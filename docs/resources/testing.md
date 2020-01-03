@@ -7,6 +7,8 @@ description: Libraries and tools for testing code
 
 * [Jasmine](http://jasmine.github.io/) is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 * [Jest](http://facebook.github.io/jest/) is used by Facebook to test all JavaScript code including React applications.
+  * [Majestic](https://github.com/Raathigesh/majestic/) - Zero config GUI for Jest
+  * [Mastering Jest](https://michalzalecki.com/ebooks/mastering-jest-tips-tricks-for-javascript-developers.html)
 * [Lab](https://github.com/hapijs/lab) is a simple test utility for node.
 * [Mocha](http://mochajs.org/) is a feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun.
 * [Tape](https://github.com/substack/tape) tap-producing test harness for node and browsers
@@ -67,12 +69,14 @@ Jasmine uses a built-in version of the expect styles.
 
 ## Misc
 
+* [Faker.js](https://github.com/marak/Faker.js/) - generate massive amounts of realistic fake data in Node.js and the browser
 * [Random JSON Data Generator](https://www.json-generator.com/)
 * [PhantomJS](http://phantomjs.org/) is a headless WebKit scriptable with a JavaScript API.
 * [SeleniumHQ](http://docs.seleniumhq.org/) is for automating web applications for testing purposes
 * [Casper.js](http://casperjs.org/)
 * [Hulken](http://hellgrenj.github.io/hulken/) is a stress testing tool for everything speaking HTTP
 * [gremlins.js](https://github.com/marmelab/gremlins.js) is monkey testing for JS
+* [randexp.js](https://fent.github.io/randexp.js/) - Create random strings that match a given regular expression.
 
 
 ## Stress Testing

@@ -13,6 +13,7 @@ simple conventions to empower your creativity.
 * [Polymer](https://www.polymer-project.org)
 * [Preact](https://preactjs.com/) - Fast 3kB alternative to React with the same modern API.
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+  * [Fusion.js](https://fusionjs.com/) - Gives you the developer experience you expect from a React setup and provides tools to take project quality to the next level.
 * [Stencil](https://stenciljs.com/) - The magical, reusable web component compiler
 * :+1: [Svelte](https://svelte.technology/) - The magical disappearing UI framework
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework

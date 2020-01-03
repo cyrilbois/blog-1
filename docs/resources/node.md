@@ -15,6 +15,8 @@ description: Node.js Resources
 * :+1: [Practical Node](https://github.com/azat-co/practicalnode)
 * [PM2](http://pm2.keymetrics.io/) - Advanced Node.js Process Manager
 * [Express Boilerplate](https://github.com/danielfsousa/express-rest-es2017-boilerplate)
+* [Node GUI](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS
+* [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
 
 ## CQRS
 
@@ -46,12 +48,14 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [Cote](http://cote.js.org/) - A Node.js library for building zero-configuration microservices
 * [DerbyJS](https://derbyjs.com/) - a full-stack framework for writing modern web applications
 * :+1: [express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
-* [Fastify](https://www.fastify.io/) - Fast and low overhead web framework, for Node.js
+  * [Ts.ED](http://tsed.io/) - A TypeScript Framework on top of Express
+* :+1: [Fastify](https://www.fastify.io/) - Fast and low overhead web framework, for Node.js
 * [Feathers](http://feathersjs.com/) is a very thin wrapper on top of Express and Socket.io
 * :+1: [hapi](http://hapijs.com/) - A rich framework for building applications and services
 * [Hydra](https://www.hydramicroservice.com/) - a NodeJS package, which facilitates building distributed applications such as Microservices
 * [koa](http://koajs.com/) - Next generation web framework for Node.js
 * [LoopBack](http://loopback.io/) is a highly-extensible, open-source Node.js framework
+* [Mali](https://mali.js.org/) - Minimalistic Node.js gRPC microservice framework
 * [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
 * [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 * [Nodal](http://www.nodaljs.com/) is a ES6 API Server and Framework for Node
@@ -65,6 +69,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 ## HTTP
 
 * See also [libs](/resources/libs.md#HTTP)
+* [got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js
 * [htpie](https://github.com/lukeed/httpie) - A Node.js HTTP client as easy as pie! 🥧
 * [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
 * [Wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities for Hapi.js
@@ -125,6 +130,10 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [Twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 * [Windows Build Tools](https://github.com/felixrieseberg/windows-build-tools)
 
+## RPC
+
+* [gRPC](https://grpc.io/) - A high performance, open-source universal RPC framework
+
 ## Security
 
 * [BCrypt Calculator](https://www.dailycred.com/article/bcrypt-calculator)
@@ -152,3 +161,4 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [Oclif](https://oclif.io/) The Open CLI Framework
 * [nvm](https://github.com/creationix/nvm) - Simple bash script to manage multiple active node.js versions
 * [nvm-Windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+

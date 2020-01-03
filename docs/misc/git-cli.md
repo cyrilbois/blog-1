@@ -5,6 +5,7 @@ date: 2019-01-02
 description: Recipes for using Git via command-line
 ---
 
+* [Axosoft - Learning Git](https://blog.axosoft.com/learning-git-repository/)
 * [Oh shit, git!](http://ohshitgit.com/)
 * [First Aid git](http://firstaidgit.io/#/)
 * [Productive Git for Developers](https://egghead.io/courses/productive-git-for-developers)

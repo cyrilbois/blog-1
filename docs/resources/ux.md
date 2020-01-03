@@ -31,7 +31,7 @@ description: UX resources
 * [UXPin](https://www.uxpin.com/)
 * [Proto.io](https://proto.io/)
 * [Balsamic Mockups](https://balsamiq.com/products/mockups/)
-* [moqups.com](https://moqups.com/)
+* [moqups.com](https://moqups.com/) - A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.
 * [fluid](https://www.fluidui.com/)
 * [FlairBuilder](http://flairbuilder.com/)
 * [Webflow](https://flexbox.webflow.com/)

@@ -12,6 +12,7 @@ I am Kaj Lund. I've been working as a professional software developer since 1998
 ## See also
 
 * [Learning section](./learn.md)
+* [State of JavaScript in 2019](https://2019.stateofjs.com/)
 * [State of CSS in 2019](https://2019.stateofcss.com/)
 * [State of JavaScript in 2018](https://stateofjs.com/)
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)

@@ -32,6 +32,5 @@ description: Markdown Resources
 * [Bedecked](https://github.com/jtrussell/bedecked) - Turn Markdown files into html presentations
 * [CMS.js](https://github.com/chrisdiana/cms.js)
 * [Doclets](https://doclets.io/) - Beautiful Javascript API-Docs made simple
-* [HUGO](https://gohugo.io/) - A fast and modern static website engine
 * [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer
 * [MiniNote](https://github.com/n1try/mininote) - A simple Markdown note-taking editor

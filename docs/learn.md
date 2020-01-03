@@ -5,6 +5,7 @@ sidebar: false
 Description: Stuff to look into
 ---
 
+* [Professional Programming](https://github.com/charlax/professional-programming)
 
 
 ## Blogs
@@ -20,6 +21,7 @@ Description: Stuff to look into
 
 ## Books
 
+* [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [The Little Mongo DB Schema Design Book](https://leanpub.com/mongodbschemadesign)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [Exploring ES6](http://exploringjs.com/es6/index.html)
@@ -27,6 +29,7 @@ Description: Stuff to look into
 * [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 * [Fullstack.io](http://www.fullstackedu.com/)
 * [Functional-Light JavaScript](https://leanpub.com/fljs)
+* [The GraphQL Guide](https://graphql.guide/)
 * [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial)
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
 * [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/index.html)
@@ -84,6 +87,8 @@ Description: Stuff to look into
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 
 ## Podcasts
+
+* [Awesome Podcasts repo](https://github.com/rShetty/awesome-podcasts)
 
 ::: tip
 Need to add podcasts I've checked out more recently

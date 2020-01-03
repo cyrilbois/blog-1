@@ -17,6 +17,8 @@ description: Developer resources
 ## Authorization
 
 * [Auth0](https://auth0.com/) single sign-on and token based authentication
+* [Keaycloak](https://www.keycloak.org/) Open Source auth management
+* [Ory.sh](https://www.ory.sh/)
 * [Stormpath](https://stormpath.com/) - Authorization/single signon as a service)
 * [grant](https://github.com/simov/grant) - OAuth Middleware for Express, Koa and Hapi
 * [Login-With](https://login-with.com/) - Stateless authentication microservice supporting many providers
@@ -30,6 +32,7 @@ description: Developer resources
 * [JS-Data](http://www.js-data.io/) - A framework-agnostic data store built for ease of use and peace of mind.
 * [localForage](https://github.com/localForage/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * [LokiJS](http://lokijs.org/) - A fast, in-memory document-oriented datastore for node.js, browser and cordova
+* [nanoSQL 2](https://nanosql.io)
 * [PouchDB](http://pouchdb.com/) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser
 
 ## Date & Time
@@ -78,6 +81,7 @@ programming helpers without extending any built-in objects.
 * [Axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 * [Bent](https://github.com/mikeal/bent) - Functional HTTP client for Node.js w/ async/await.
 * [Fly.js](https://github.com/wendux/fly) - Supporting request forwarding and Promise based HTTP client for all JavaScript runtimes.
+* [Got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API
 * [Rapid.js](https://rapidjs.io) - a fluent framework for rapidly building API wrappers, reusable base models, and interacting with APIs
 * [request](https://github.com/request/request) - Simplified HTTP request client.
@@ -95,6 +99,7 @@ programming helpers without extending any built-in objects.
 
 ## Misc
 
+* [Chance](https://chancejs.com) - Generate random strings, numbers etc.
 * [clipboardjs](https://clipboardjs.com/) - A modern approach to copy text to clipboard. No Flash. No dependencies.
 * [crypto-js](https://code.google.com/archive/p/crypto-js/) - JavaScript implementations of standard and secure cryptographic algorithms
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
@@ -147,3 +152,10 @@ providing simple and advanced number, money and currency formatting.
 * [Modernizr](https://modernizr.com/)
 * [html5shiv](https://github.com/afarkas/html5shiv)
 
+## State
+
+* [Immer](https://github.com/immerjs/immer)
+
+## Websockets
+
+* [Sarus](https://sarus.anephenix.com/)
