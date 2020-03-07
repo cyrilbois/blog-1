@@ -8,7 +8,7 @@ description: Various useful software for development
 
 * [cmder](http://cmder.net/) - Portable console emulator for Windows
 
-### Cloud
+### Cloud Tools
 
 * [Repl.it](https://repl.it)
 * [JS Fiddle](http://jsfiddle.net/)
@@ -66,13 +66,19 @@ description: Various useful software for development
 
 ## Documentation
 
+I use [Notable](https://notable.md/) as my #1 tool for ducumentation. It works perfectly on both Windows and *nix using Google Drive to host and sync my Markdown files.
+
 * [Docz](https://www.docz.site/) - Documentation tool built on [Gatsby](https://www.gatsbyjs.org/)
 * :+1: [Gitbook](https://www.gitbook.com/) - Document Everything! For you, your users and your team.
 * [HUGO](https://gohugo.io/) - A fast and modern static website engine
 * :+1: [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck.
+* [Joplin](http://joplin.cozic.net/) - An open source note taking and to-do application with synchronisation capabilities.
+* [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 * [Vuepress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator
 
 ## Editors and IDEs
+
+Check out [this fine article](https://websitesetup.org/best-ide-software/) on IDEs
 
 * [Visual Studio Code](https://code.visualstudio.com/)
   * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
@@ -106,7 +112,7 @@ description: Various useful software for development
 * [Outline](https://www.getoutline.com/) - Team wiki, documentation, meeting notes, playbooks, onboarding, work logs, brainstorming, & more…
 * [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
 * [Igloo](https://www.igloosoftware.com/)
-* [mailtrap](https://mailtrap.io/signin) -  is a test mail server solution that allows testing email notifications without sending them to the real users 
+* [mailtrap](https://mailtrap.io/signin) -  is a test mail server solution that allows testing email notifications without sending them to the real users
 * [Tad](http://tadviewer.com/) - Tad is a free (MIT Licensed) desktop application for viewing and analyzing tabular data.
 * [Visualping](https://visualping.io/) Monitor webpages
 * [Forestry](https://forestry.io/#/) - Sync your Jekyll, Hugo or VuePress site.
@@ -115,11 +121,6 @@ description: Various useful software for development
 
 * [Grafana](https://grafana.com/)
 
-
-## Notetaking
-
-* [Joplin](http://joplin.cozic.net/) - An open source note taking and to-do application with synchronisation capabilities.
-* [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ## PaaS
 
