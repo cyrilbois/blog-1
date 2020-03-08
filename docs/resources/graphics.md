@@ -31,6 +31,7 @@ description: Developer resources
 
 ## Color
 
+* [Color Hex](https://www.color-hex.com/)
 * [Meyerweb Colorblend](http://meyerweb.com/eric/tools/color-blend/)
 * [colr.org](http://www.colr.org/) - Play with colors and color schemes
 * [0to255](http://www.0to255.com/) - Find color variations
@@ -39,6 +40,20 @@ description: Developer resources
 * [Adobe Color CC](https://color.adobe.com)
 * [Colorblendy](http://colorblendy.com/)
 * [webcolourdata](http://webcolourdata.com/) - Provide URL to get colors
+
+## Fonts
+
+* [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
+* Consolas
+* [Hack](http://sourcefoundry.org/hack/)
+* [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
+* [Input](https://input.fontbureau.com/)
+* Lucida Console
+* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* Source Sans Pro
+* Ubuntu Mono
+* [Victor Mono](https://rubjo.github.io/victor-mono/)
+
 
 ## Diagramming
 
@@ -56,17 +71,6 @@ description: Developer resources
 
 * [Open Logos](http://openlogos.org/) - free logos for your open source projects
 
-### Programming Fonts
-
-* [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
-* Consolas
-* [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
-* [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-* [Hack](http://sourcefoundry.org/hack/)
-* Source Sans Pro
-* Ubuntu Mono
-
-
 ## Icons
 
 * [Feather](https://feathericons.com/) - Simply beautiful open source font icons
@@ -77,9 +81,10 @@ description: Developer resources
 * [Material Icons](https://material.io/tools/icons/?style=baseline)
 * [Material Design Icons](https://materialdesignicons.com/)
 * [Stackicons](http://stackicons.com/)
+
 ## Libraries
 
-* [Rough.js](https://roughjs.com/) - Create graphics with a hand-drawn, sketchy, appearance 
+* [Rough.js](https://roughjs.com/) - Create graphics with a hand-drawn, sketchy, appearance
 
 
 ## Misc
@@ -90,6 +95,10 @@ description: Developer resources
 * [Shutterstock](http://www.shutterstock.com/)
 * [GRATISOGRAPHY](http://gratisography.com/)
 * [Unsplash](https://unsplash.com/)
+
+## Photos
+
+* [Pexels](https://www.pexels.com/) - Stock photos and Videos
 
 ## SVG
 

@@ -60,6 +60,7 @@ programming helpers without extending any built-in objects.
 * [is.js](http://is.js.org/) - Check types, regexps, presence, time and more...
 * [Lazy.js](http://danieltao.com/lazy.js/) - Lazy.js is a functional utility library for JavaScript, similar to Underscore and Lo-Dash
 * [lodash](https://lodash.com/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
+* [Nanoevents](https://github.com/ai/nanoevents) - Simple and tiny event emitter library for JavaScript.
 * [pandemonium](https://github.com/Yomguithereal/pandemonium) - Typical random-related functions for JavaScript
 * [Push.js](http://nickersoft.github.io/push.js/) - A compact, cross-browser solution for the JavaScript Notifications API
 * [Reflux](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux
@@ -69,6 +70,7 @@ programming helpers without extending any built-in objects.
 * [ukkonen](https://github.com/sunesimonsen/ukkonen) - Ukkonen's Approximate String Matching algorithm
 * [unchanged](https://github.com/planttheidea/unchanged) - A tiny, fast, unopinionated handler for updating JS objects and arrays immutably
 * [underscore.js](http://underscorejs.org/) is a JavaScript library that provides a whole mess of useful functional
+* [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 * [valid.js](https://github.com/dleitee/valid.js) - A simple library for data validation.
 * [validator.js](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
 
@@ -104,7 +106,7 @@ programming helpers without extending any built-in objects.
 * [crypto-js](https://code.google.com/archive/p/crypto-js/) - JavaScript implementations of standard and secure cryptographic algorithms
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 * [highlight.js](https://highlightjs.org/) -  Syntax highlighting for the Web
-* [Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks 
+* [Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks
 * [howler.js](https://howlerjs.com/) makes working with audio in JavaScript easy and reliable across all platforms.
 * [iMask.js](https://unmanner.github.io/imaskjs/) - vanilla javascript input mask
 * [Fuse.js](http://kiro.me/projects/fuse.html) - Lightweight fuzzy-search, in JavaScript.

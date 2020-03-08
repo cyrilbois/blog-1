@@ -5,6 +5,7 @@ sidebar: false
 Description: Stuff to look into
 ---
 
+* [Brilliant - Learn to Think](https://brilliant.org/) - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
 * [Professional Programming](https://github.com/charlax/professional-programming)
 
 

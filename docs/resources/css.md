@@ -7,6 +7,7 @@ description: CSS Resources
 * [CSS Basics](http://www.cssbasics.com/)
 * [CSS Cheat Sheet](http://lesliefranke.com/files/reference/csscheatsheet.html)
 * [Grid by Example](https://gridbyexample.com/)
+* [Layout Patterns](https://csslayout.io/patterns/)
 * [Learn CSSS Layout](http://learnlayout.com/)
 * [Flexbox Playground](https://coveloping.com/flexbox-playground)
 * [Flexbox.help](http://flexbox.help/)
@@ -20,9 +21,10 @@ description: CSS Resources
 
 ## Color
 
-* http://flatuicolors.com/
-* http://getuicolors.com/
-* http://www.0to255.com/
+* [Color Hex](https://www.color-hex.com/)
+* [HTML Color Codes](https://htmlcolorcodes.com/)
+* [Flat UI Colors](http://flatuicolors.com/)
+* [ui colors](http://getuicolors.com/)
 
 ## Frameworks
 

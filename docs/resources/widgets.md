@@ -37,7 +37,7 @@ description: Developer resources
 JavaScript.
 * [flatpickr](https://chmln.github.io/flatpickr/) - A lightweight & powerful datetimepicker
 * [FlipClock.js](http://flipclockjs.com/) - Countdown, clock or timer
-* [FullCalendar](http://fullcalendar.io/) - A JavaScript event calendar
+* [FullCalendar](https://fullcalendar.io/) - A JavaScript event calendar
 * [Pikaday](https://github.com/dbushell/Pikaday)
 * [Rome](http://bevacqua.github.io/rome/) - Customizable date (and time) picker. Opt-in UI, no jQuery!
 * [Scheduler](http://docs.dhtmlx.com/scheduler/)
@@ -61,7 +61,7 @@ JavaScript.
 ## Editors
 
 * [CKEditor 5](https://github.com/ckeditor/ckeditor5)
-* [Editor.js](https://editorjs.io/) - Next generation block styled editor. 
+* [Editor.js](https://editorjs.io/) - Next generation block styled editor.
 * [Redactor II](https://imperavi.com/redactor/) — WYSIWYG Text Editor
 * [ToastUI](https://ui.toast.com/tui-editor/) - GFM Markdown Wysiwyg Editor - Productive and Extensible
 
@@ -110,6 +110,9 @@ JavaScript.
 * [Drop.js](http://github.hubspot.com/drop/docs/welcome/) - The fast and capable dropdown library.
 * [interact.js](http://interactjs.io/) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers
 * [Labella.js](http://twitter.github.io/labella.js/) - Timeline with labels
+* [Paged.js](https://www.pagedjs.org/) - paginates content in the browser to create PDF output from any HTML content
+* [Panolens.js](https://pchen66.github.io/Panolens/) - A Javascript Panorama Viewer
+* [Rough.js](https://roughjs.com/) - Create graphics with a hand-drawn, sketchy, appearance
 * [signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 * [simple-data-table](https://github.com/piecioshka/simple-data-table)
 * [Tippy.js](https://atomiks.github.io/tippyjs/) A lightweight, vanilla JavaScript tooltip library

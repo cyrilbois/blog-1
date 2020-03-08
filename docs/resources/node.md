@@ -38,6 +38,7 @@ description: Node.js Resources
 * [Objection.js](http://vincit.github.io/objection.js/) - Built on [knex.js](http://knexjs.org/)
 * [Sequelize](http://docs.sequelizejs.com/) provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases by mapping database entries to objects and vice versa.
 * [Waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js with support for mysql, mongo, postgres, redis, and more
+* [StormDB](https://github.com/tomprograms/stormdb)
 * [wetland](https://wetland.spoonx.org/)
 
 ## Frameworks

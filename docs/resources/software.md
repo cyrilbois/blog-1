@@ -8,7 +8,7 @@ description: Various useful software for development
 
 * [cmder](http://cmder.net/) - Portable console emulator for Windows
 
-### Cloud Tools
+### Cloud Editors and IDEs
 
 * [Repl.it](https://repl.it)
 * [JS Fiddle](http://jsfiddle.net/)
@@ -92,6 +92,9 @@ Check out [this fine article](https://websitesetup.org/best-ide-software/) on ID
 * [Sublime Text](http://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose.
 * [Xi](https://xi-editor.io/) - Fast, reliable editor for every platform
 
+## Fotmatters and Linters
+
+* [HTML Formatter](https://htmlformatter.com/)
 
 ## Graphics
 
@@ -109,6 +112,7 @@ Check out [this fine article](https://websitesetup.org/best-ide-software/) on ID
 
 ## Misc
 
+* [Latitude and Longitude Finder](https://www.latlong.net/)
 * [Outline](https://www.getoutline.com/) - Team wiki, documentation, meeting notes, playbooks, onboarding, work logs, brainstorming, & more…
 * [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
 * [Igloo](https://www.igloosoftware.com/)
@@ -160,6 +164,7 @@ Check out [this fine article](https://websitesetup.org/best-ide-software/) on ID
 
 ## Prototyping
 
+* [Adobe XD](https://www.adobe.com/fi/products/xd.html) -
 * [axure](https://www.axure.com/) - Powerful Prototyping and Developer Handoff
 * [balsamiq](https://balsamiq.com/)
 * [Marvel](https://marvelapp.com/)
@@ -180,9 +185,18 @@ Check out [this fine article](https://websitesetup.org/best-ide-software/) on ID
 * [Vuepress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator
 
 
+## Terminal Emulators
+
+* [Terminus](https://eugeny.github.io/terminus/)
+
 ## Testing
 
 * [Insomnia](https://insomnia.rest/) - Powerful HTTP toolbelt, in one intuitive app
+
+
+## Teams
+
+* [Notion](https://www.notion.so/) - Write, plan, collaborate, and get organized. Notion is all you need.
 
 
 ## Time-tracking
