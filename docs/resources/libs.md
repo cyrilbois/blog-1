@@ -94,6 +94,10 @@ programming helpers without extending any built-in objects.
 * [GraphicStock](https://www.graphicstock.com/)
 * [Freepik](http://www.freepik.com/)
 
+## Logging
+
+* [consola](https://github.com/nuxt/consola) - Elegant Console Logger for Node.js and Browser
+
 ## Maps
 
 * :+1: [mapbox](https://www.mapbox.com/)
