@@ -11,6 +11,7 @@ description: DB resources
 ## DBAAS
 
 * [Compose](https://www.compose.com/)
+* [ElephantSQL](https://www.elephantsql.com/) - PostgreSQL as a Service
 * [Firebase](https://firebase.google.com/)
 * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB cloud service
 

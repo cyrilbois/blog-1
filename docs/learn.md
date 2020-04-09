@@ -39,14 +39,16 @@ Description: Stuff to look into
 * [Understanding es6](https://github.com/nzakas/understandinges6/tree/master/manuscript)
 * [You Don't Know JS book series](https://github.com/getify/You-Dont-Know-JS)
 
-## Book stores
+## Books
 
 * [Apress](http://www.apress.com/)
+* [Blinkist](https://www.blinkist.com/) - Key takeaways from the world’s best nonfiction books in text and audio
 * [No Starch Press](http://www.nostarch.com/)
 * [O&rsquo;Reilly](http://shop.oreilly.com/)
 * [Packt Publishing](https://www.packtpub.com/)
 * [Safari Books Online](https://www.safaribooksonline.com)
 * [Succinctly Books](https://www.syncfusion.com/resources/techportal/ebooks)
+* [The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition](https://www.audible.com/pd/The-Pragmatic-Programmer-20th-Anniversary-Edition-2nd-Edition-Audiobook/B0833FMYH9)
 
 ## Conferences
 
@@ -67,6 +69,7 @@ Description: Stuff to look into
 * [The curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [The Modern JavaScript Tutorial](http://javascript.info/)
 * [The twelve-factor app](https://12factor.net/)
+* [This is CS50](https://cs50.harvard.edu/x/2020/) - Harvard Uni CS intro
 * [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ## Misc
@@ -132,16 +135,16 @@ I've set a thumbs down emoji :-1: for the ones that are not active anymore. Look
 
 * [Codecademy](https://www.codecademy.com/)
 * [EggHead.io](https://egghead.io/) - Video lessons on different webdev topics. Cheap and specialised when you need quick info on specific topics.
-* [freeCodeCamp](https://www.freecodecamp.com/)
+* :-1: [freeCodeCamp](https://www.freecodecamp.com/) -  Learn to code. Build projects. Earn certifications.
 * [Frontend Masters](https://frontendmasters.com/)
 * [KhanAcademy](https://www.khanacademy.org/)
 * [KnowThen](http://knowthen.com/)
-* [Lets Code TDJS](http://www.letscodejavascript.com/)
-* [Lynda.com](http://www.lynda.com/) has tons of material, a bit more focused towards designers than developers.
+* :-1: [Lynda.com](http://www.lynda.com/) has tons of material, a bit more focused towards designers than developers.
 * [Nodeschool](http://nodeschool.io/)
+* [Pirple.com](https://pirple.thinkific.com/) - Continuing Education for Software Engineers
 * [Pluralsight](http://pluralsight.com/) have a huge library of educational video for both .net and web developers among other topics.
 * [Safari Books Online](https://www.safaribooksonline.com) has both the O&rsquo;Reilly books and also lot&rsquo;s of video material.
 * [Scrimba](https://scrimba.com/)
 * [PACKT Publishing](https://www.packtpub.com) provides both books and videos.
-* [Udemy](https://www.udemy.com/)
+* :-1: [Udemy](https://www.udemy.com/)
 * [VTC](https://www.vtc.com/)

@@ -30,13 +30,13 @@ description: Node.js Resources
 
 * [Bookshelf.js](http://bookshelfjs.org/) - Built on [knex.js](http://knexjs.org/)
 * :+1: [knex](http://knexjs.org/) - a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, and Oracle
-* [mongoose](http://mongoosejs.com/) - Schema-based elegant mongodb object modeling for node.js using MongoDB
+* :+1: [mongoose](http://mongoosejs.com/) - Schema-based elegant mongodb object modeling for node.js using MongoDB
 * [NeDB](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 * [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres.
 * [node-persist](https://github.com/joeferner/node-persist) - Node.js ORM framework supporting MySQL and SQLite 3 relational databases
 * [node-sqlserver](https://github.com/Azure/node-sqlserver) - The Microsoft Driver for Node.js for SQL Server allows Node.js applications on Microsoft Windows and Microsoft Windows Azure to access Microsoft SQL Server and Microsoft Windows Azure SQL Database.
-* [Objection.js](http://vincit.github.io/objection.js/) - Built on [knex.js](http://knexjs.org/)
-* [Sequelize](http://docs.sequelizejs.com/) provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases by mapping database entries to objects and vice versa.
+* :+1: [Objection.js](https://vincit.github.io/objection.js/) - Built on [knex.js](http://knexjs.org/)
+* :+1: [Sequelize](https://sequelize.org/) provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases by mapping database entries to objects and vice versa.
 * [Waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js with support for mysql, mongo, postgres, redis, and more
 * [StormDB](https://github.com/tomprograms/stormdb)
 * [wetland](https://wetland.spoonx.org/)
@@ -86,7 +86,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * :+1: [Consola](https://github.com/nuxt/consola) - Elegant Console Logger for Node.js and Browser
 * [Debug](https://github.com/visionmedia/debug#readme)
 * [dumper.js]https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
-* [Pino](http://getpino.io/#/) - Very low overhead Node.js logger, inspired by Bunyan.
+* :+1: [Pino](http://getpino.io/#/) - Very low overhead Node.js logger, inspired by Bunyan.
 * [roarr](https://github.com/gajus/roarr) -JSON logger for Node.js and browser.
 * [Winston](https://github.com/winstonjs/winston) a multi-transport async logging library for node.js
 * [Bragi-Node](https://github.com/enoex/Bragi-Node) is colorful, discrete, and sophisticated NodeJS logging framework
@@ -106,7 +106,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 
 * [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 * [CsvBuilder](https://github.com/nickpisacane/CsvBuilder) - Easily encode complex JSON objects to CSV with CsvBuilder's schema-like API
-* [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+* :+1: [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) - extra methods for the fs object like copy(), remove(), mkdirs()
 * [github-webhook-handler](https://github.com/rvagg/github-webhook-handler) - Node.js web handler / middleware for processing GitHub Webhooks
 * [git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
@@ -115,7 +115,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
 * [hyperlink](https://github.com/Munter/hyperlink) - A node library and command line tool to test the integrity of your internal an external hyperlinks
 * [live-server](https://github.com/tapio/live-server)- A simple development http server with live reload capability.
-* [localtunnel](https://localtunnel.github.io/www/) - Expose yourself to the world
+* :+1: [localtunnel](https://localtunnel.github.io/www/) - exposes your localhost to the world for easy testing and sharing
 * [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
 * [nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging
 * [Nanoid](https://github.com/ai/nanoid) - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
@@ -125,6 +125,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 * [permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 * [Promise.prototype.finally](https://github.com/es-shims/Promise.prototype.finally)
 * [Push](https://pushjs.org) - The world's most versatile desktop notifications framework
+* :+1: [release-it](https://github.com/release-it/release-it) -Automate versioning and package publishing
 * [ShellJS](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node
 * [Sockette](https://github.com/lukeed/sockette) -
 * [sse-channel](https://github.com/rexxars/sse-channel) - he cutest little WebSocket wrapper!

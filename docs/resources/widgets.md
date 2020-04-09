@@ -49,6 +49,7 @@ JavaScript.
 
 * [GoJS](https://gojs.net/latest/index.html)
 * [JointJS](Visualize and interact with diagrams and graphs)
+* [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars
 
 ## Dialogs
 
@@ -116,6 +117,7 @@ JavaScript.
 * [signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 * [simple-data-table](https://github.com/piecioshka/simple-data-table)
 * [Tippy.js](https://atomiks.github.io/tippyjs/) A lightweight, vanilla JavaScript tooltip library
+* [Uppload](https://uppload.js.org/) -
 * [Uppy](http://uppy.io/) - File uploader
 
 
