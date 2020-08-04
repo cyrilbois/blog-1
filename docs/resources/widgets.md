@@ -18,6 +18,7 @@ description: Developer resources
 
 - [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
 - [ItemSlide.js](http://itemslide.github.io/) - A simple & beautiful touch carousel
+- [Keen Slider](https://keen-slider.io/) - is a free library agnostic touch slider with native touch/swipe behavior and great performance.
 - [simple-slider](http://ruyadorno.github.io/simple-slider/) - Extremely lightweight JavaScript carousel micro library
 - [slick](http://kenwheeler.github.io/slick/) - The last carousel you'll ever need
 

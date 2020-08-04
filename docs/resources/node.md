@@ -29,6 +29,7 @@ description: Node.js Resources
 ## Databases
 
 - [Bookshelf.js](http://bookshelfjs.org/) - Built on [knex.js](http://knexjs.org/)
+- [Jedlik](https://github.com/peak-ai/jedlik) is an extensible DynamoDB ODM for Node, written in TypeScript
 - :+1: [knex](http://knexjs.org/) - a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, and Oracle
 - :+1: [mongoose](http://mongoosejs.com/) - Schema-based elegant mongodb object modeling for node.js using MongoDB
 - [NeDB](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
@@ -116,6 +117,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 - [git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [Gluegun](https://infinitered.github.io/gluegun/#/) - A delightful toolkit for building Node-powered CLIs.
 - [grial](https://github.com/sergiodxa/grial) - A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.
+- [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
 - [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
 - [hyperlink](https://github.com/Munter/hyperlink) - A node library and command line tool to test the integrity of your internal an external hyperlinks
 - [live-server](https://github.com/tapio/live-server)- A simple development http server with live reload capability.
@@ -155,6 +157,7 @@ Have a look at the [Node Frameworks page](http://nodeframework.com/)
 
 - [Agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - :+1: [Bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling jobs and messages in NodeJS.
+- [Bree](https://jobscheduler.net/#/) - is the best job scheduler for Node.js with support for cron, dates, ms, later, and human-friendly strings.
 - [Kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
 
 ## Templating

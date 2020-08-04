@@ -192,6 +192,7 @@ Check out [this fine article](https://websitesetup.org/best-ide-software/) on ID
 ## Teams
 
 - [Harvest](https://www.getharvest.com/) - Time tracking software for those who value insight
+- [Miro](https://miro.com/) is a collaborative online whiteboard platform designed for remote and distributed teams.
 - [Notion](https://www.notion.so/) - Write, plan, collaborate, and get organized. Notion is all you need.
 
 ## Time-tracking

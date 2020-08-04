@@ -84,6 +84,7 @@ module.exports = {
           '/resources/libs.md',
           '/resources/markdown.md',
           '/resources/node.md',
+          '/resources/react.md',
           '/resources/software.md',
           '/resources/testing.md',
           '/resources/tools.md',

@@ -7,6 +7,7 @@ description: UX resources
 - [99Designs](https://99designs.com/)
 - [Codrops](http://tympanus.net/codrops/)
 - [100 Days UI](http://www.100daysui.com/)
+- [UI Design Daily](https://uidesigndaily.com/)
 
 ## Learning
 

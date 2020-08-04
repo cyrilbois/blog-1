@@ -109,6 +109,7 @@ description: Developer resources
 
 ## Misc
 
+- [Bumblebee](https://github.com/jaxcore/bumblebee) - JavaScript Voice Application Framework
 - [Chance](https://chancejs.com) - Generate random strings, numbers etc.
 - [clipboardjs](https://clipboardjs.com/) - A modern approach to copy text to clipboard. No Flash. No dependencies.
 - [crypto-js](https://code.google.com/archive/p/crypto-js/) - JavaScript implementations of standard and secure cryptographic algorithms
@@ -147,6 +148,7 @@ description: Developer resources
 - [AutoNumeric.js](http://autonumeric.org/) - Automatically format your numbers and currencies
 - [Complex.js](https://github.com/infusion/Complex.js) - A complex number library
   providing simple and advanced number, money and currency formatting.
+- [currency.js](https://github.com/scurker/currency.js) - a lightweight ~1kb javascript library for working with currency values
 - [CurrencyFormatter.js](https://osrec.github.io/currencyFormatter.js/)
 - [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 - [dinero.js](https://github.com/sarahdayan/dinero.js) - An immutable library to create, calculate and format money.

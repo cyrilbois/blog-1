@@ -27,6 +27,7 @@ Description: Stuff to look into
 
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [The Little Mongo DB Schema Design Book](https://leanpub.com/mongodbschemadesign)
+- [Mastering Mongoose](https://masteringjs.io/ebooks/mastering-mongoose)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Exploring ES6](http://exploringjs.com/es6/index.html)
 - [Exploring ES2018 & ES2019](http://exploringjs.com/es2018-es2019/)
