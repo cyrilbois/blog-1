@@ -6,15 +6,24 @@ Description: Stuff to look into
 ---
 
 - [Brilliant - Learn to Think](https://brilliant.org/) - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
+- [Coursera](https://www.coursera.org/)
 - [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/)
 - [educative](https://www.educative.io/) - Text-based courses with embedded coding environments make learning a breeze.
+- :+1: [freeCodeCamp](https://www.freecodecamp.com/) - Learn to code. Build projects. Earn certifications.
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme) - From basic to advanced: test how well you know JavaScript
 - [Mozilla - Front-end web developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - [Professional Programming](https://github.com/charlax/professional-programming)
+- [UX Design Institute](https://www.uxdesigninstitute.com/landing-page/learn-ux-design-online-diploma-ab)
 
-## Blogs
+## Blogs & YouTube Channels
 
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [CodingHeroes](http://codingheroes.io) - Jonas Schmedtmann
+- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Wes Bos](https://www.youtube.com/user/wesbos)
 - [Scotch.io](http://scotch.io/)
 - [Todd Motto](http://toddmotto.com/)
 - [Year of Moo](http://www.yearofmoo.com/)
@@ -66,7 +75,9 @@ Description: Stuff to look into
 - [30 seconds of Code](https://30secondsofcode.org/)
 - [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines#readme)
 - [ES2015+ cheatsheet](https://devhints.io/es6)
+- [Four semesters of CS in 6 Hours](http://btholt.github.io/four-semesters-of-cs/)
 - [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [Harvard CS50x](https://cs50.harvard.edu/x/2020/)
 - [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly!
 - [JS Must Watch List](https://github.com/bolshchikov/js-must-watch)
@@ -132,7 +143,7 @@ I've set a thumbs down emoji :-1: for the ones that are not active anymore. Look
 
 - [WatchMeCode.net](https://sub.watchmecode.net/)
 - [BuildPodcast](http://build-podcast.com/)
-- [JS is W0eird and Awesome series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_&src_vid=JEq7Ehw-qk8&feature=iv&annotation_id=annotation_2881740617)
+- [JS is Weird and Awesome series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_&src_vid=JEq7Ehw-qk8&feature=iv&annotation_id=annotation_2881740617)
 - [Let&rsquo;s Code TDJS](http://www.letscodejavascript.com/) - An in-depth screencast about Test-Driven JavaScript
 - [Node Tuts](http://nodetuts.com/index.html)
 
@@ -140,7 +151,6 @@ I've set a thumbs down emoji :-1: for the ones that are not active anymore. Look
 
 - [Codecademy](https://www.codecademy.com/)
 - [EggHead.io](https://egghead.io/) - Video lessons on different webdev topics. Cheap and specialised when you need quick info on specific topics.
-- :-1: [freeCodeCamp](https://www.freecodecamp.com/) - Learn to code. Build projects. Earn certifications.
 - [Frontend Masters](https://frontendmasters.com/)
 - [KhanAcademy](https://www.khanacademy.org/)
 - [KnowThen](http://knowthen.com/)

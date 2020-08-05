@@ -7,10 +7,11 @@ Description: What's it about dude?
 
 I am Kaj Lund. I've been working as a professional software developer since 1998. The last 10 years mainly with fullstack web technologies.
 
-![LuKa](./luka.png)
+![LuKa](./lukamannenmercury.jpg)
 
 ## See also
 
+- [Demos Section](./demos.md)
 - [Learning section](./learn.md)
 - [State of JavaScript in 2019](https://2019.stateofjs.com/)
 - [State of CSS in 2019](https://2019.stateofcss.com/)

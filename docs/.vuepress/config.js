@@ -13,6 +13,7 @@ module.exports = {
     nav: [
       { text: 'Resources', link: '/resources/' },
       { text: 'Learn', link: '/learn.md' },
+      { text: 'Demos', link: '/demos.md' },
       { text: 'About', link: '/about.md' },
     ],
     sidebar: [
