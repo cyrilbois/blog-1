@@ -13,6 +13,7 @@ I am Kaj Lund. I've been working as a professional software developer since 1998
 
 - [Demos Section](./demos.md)
 - [Learning section](./learn.md)
+- [The Top Frontend Development Links of 2019](https://superhighway.dev/frontend-2019)
 - [State of JavaScript in 2019](https://2019.stateofjs.com/)
 - [State of CSS in 2019](https://2019.stateofcss.com/)
 - [State of JavaScript in 2018](https://stateofjs.com/)
