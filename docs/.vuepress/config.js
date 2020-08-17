@@ -58,6 +58,7 @@ module.exports = {
           '/node/basics.md',
           '/node/hapi.md',
           '/node/knex.md',
+          '/node/npm.md',
         ],
       },
       {
